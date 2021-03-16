@@ -1,0 +1,114 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+
+```{r setup}
+    knitr::opts_knit$set(root.dir = normalizePath("~/geologyGeometry")) 
+```
+
+
+```{r}
+
+library("ggplot2")
+library("ggforce")
+source("library/all.R")
+source("AMS_functions.R")
+```
+
+Import data
+```{r}
+#Follins <- geoDataFromFile("MtEdgarShearSensePaper/WarrawoonaDufferWest-Table 1.csv")
+DufferWest <- read.csv(file="MtEdgarShearSensePaper/WarrawoonaDufferWest-Table 1.csv", header=TRUE, sep=",")
+DufferEast <- read.csv(file="MtEdgarShearSensePaper/WarrawoonaDufferEast-Table 1.csv", header=TRUE, sep=",")
+ApexEast <- read.csv(file="MtEdgarShearSensePaper/WarrawoonaApexWest_East-Table 1.csv", header=TRUE, sep=",")
+ApexWest <- read.csv(file="MtEdgarShearSensePaper/WarrawoonaApexWest_West-Table 1.csv", header=TRUE, sep=",")
+```
+
+
+
+```{r}
+
+FollinCritWest <- DufferWest$rake > 0
+FollinCritEast <- DufferEast$rake > 0
+
+FollinCritApexWest <- ApexWest$rake > 0
+FollinCritApexEast <- ApexEast$rake >0
+
+
+rotationsDufferWest = rotationsFromeCSVframe(DufferWest, FollinCritWest)
+rotationsDufferEast = rotationsFromeCSVframe(DufferEast, FollinCritEast)
+
+rotationsApexEast = rotationsFromeCSVframe(ApexEast, FollinCritApexEast)
+rotationsApexWest = rotationsFromeCSVframe(ApexWest, FollinCritApexWest)
+
+```
+
+
+```{r}
+
+pWest = plotEqualAreaNetFromRotations(rotationsDufferWest)
+pEast = plotEqualAreaNetFromRotations(rotationsDufferEast)
+
+pAWest = plotEqualAreaNetFromRotations(rotationsApexWest)
+pAEast = plotEqualAreaNetFromRotations(rotationsApexEast)
+
+pWest = pWest + ggtitle("WarrawoonaDufferWest")
+pEast = pEast + ggtitle("WarrawoonaDufferEast")
+
+pAWest = pAWest + ggtitle("WarrawoonaApexWest")
+pAEast = pAEast + ggtitle("WarrawoonaApexEast")
+
+
+ggsave("FollinDufferWest.pdf", plot = pWest, height = 3, width = 3, unit = "in")
+ggsave("FollinDufferEast.pdf", plot = pEast, height = 3, width = 3, unit = "in")
+ggsave("FollinApexEast.pdf", plot = pAEast, height = 3, width = 3, unit = "in")
+ggsave("FollinApexWest.pdf", plot = pAWest, height = 3, width = 3, unit = "in")
+
+
+```
+
+
+Crenulations
+```{r}
+
+CrenCritApexWest <- ApexWest$foliationType == "crenulation_cl" | ApexWest$foliationType == "cleavage"
+CrenCritApexEast <- ApexEast$foliationType == "crenulation_cl" | ApexEast$foliationType == "cleavage"
+
+crenulationsAWest = cartesianFromeCSVframeStrikeDip(ApexWest, CrenCritApexWest)
+crenulationsAEast = cartesianFromeCSVframeStrikeDip(ApexEast, CrenCritApexEast)
+
+crenPlotWest = plotEqualAreaNetFromPoles(crenulationsAWest)
+crenPlotWest = crenPlotWest + ggtitle("crenulation cleavage west")
+
+crenPlotWest
+
+crenPlotEast = plotEqualAreaNetFromPoles(crenulationsAEast)
+crenPlotEast = crenPlotEast + ggtitle("crenulation cleavage west")
+
+crenPlotEast
+
+
+ggsave("CrenulationsApexEast.pdf", plot = crenPlotEast, height = 3, width = 3, unit = "in")
+ggsave("CrenulationsApexWest.pdf", plot = crenPlotWest, height = 3, width = 3, unit = "in")
+
+```
+folds
+```{r}
+foldCritApexWest <- ApexWest$otherStructure == "fold"
+foldCritApexEast <- ApexEast$otherStructure == "fold"
+
+foldsApexWest <- rotationsFromeCSVframeFolds(ApexWest, foldCritApexWest)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+

@@ -1,0 +1,1094 @@
+f,fieldStation,type,easting,northing,notes,strike,dip,assocTrend,assocPlunge,assocRake,trend,plunge,featureType,foliationType,otherStructure,otherStructureType,hingeTrend,hingePlunge,axialPlaneStrike,axialPlaneDip,sampleName,sampleOrientationNote,imageID,imageID2,imageID3,imageID4,imageID5,imageID6,imageID7,imageID8,imageID9,imageID10
+874,Ame18fieldstation-569,Point,119.9624373,-21.36206193,20 cm thick chert bed_ discontinuous and disappears along strike. Slightly banded.,131,70,227,70,92,,,bedding,,,,,,,,AME18_235,131 70,15307539363560.jpg,,,,,,,,,
+10,1.52583E+13,Point,119.9440532,-21.34735427,,286,86,,,,,,,,,,,,,,AME18_001,Fabric 286 86,,,,,,,,,,
+8,1.52583E+13,Point,119.9437894,-21.34722391,Finely spaced cleavage s surfaces_ possibly garnet bearing ( weather out pits at the surface.  C surfaces spaced at about 30 cm. Sampled for garnets.,265,87,,,82,,,foliation,s_plane,,,,,,,AME18_002,,15258268757244.jpg,,,,,,,,,
+11,1.52583E+13,Point,119.9434698,-21.34754187,Quartz vein in strong felsic fabric. Vein is assymmetrically folded and strongly lineated parallel to hinge. Shows right lateral sos.,286,86,,,77,,,vein,,fold,z_fold,275,72,295,84,AME18_003 b,286 82 n,15258291700003.jpg,,,,,,,,,
+12,1.52583E+13,Point,119.9434698,-21.34754187,Quartz vein in strong felsic fabric. Vein is assymmetrically folded and strongly lineated parallel to hinge. Shows right lateral sos.,286,82,,,75,,,vein,,,,,,,,AME18_003 b,286 82 n,15258291700003.jpg,,,,,,,,,
+161,Ame18fieldstation-95,Point,119.9658673,-21.37189485,Felsic_ finely lamited muscovite schist_ with booudined and folded quartz veins and a strong nearly downdip crenulation defines by muscovite.,146,51,,,105,,,foliation,schistosity,fold,,241,43,115,43,AME18_047,H n,15271261948390.jpg,15271258253198.jpg,,,,,,,,
+202,Ame18fieldstation-118,Point,119.9439229,-21.35160862,Granitic dike intruding duffer formation basalt subparallel to bedding. Meta basalt shave reverse sense kink bands.,112,67,,,114,,,,,,,,,,,AME18_054,112 67,15272068833857.jpg,15272067123911.jpg,15272065602559.jpg,15272065315275.jpg,,,,,,
+211,Ame18fieldstation-121,Point,119.9449517,-21.35274732,Very small zone of large garnets found west of the river. Rock is a finely lamited felsic muscovite schist.,120,83,281,69,110,,,foliation,schistosity,,,,,,,AME18_056,120 83,15272123591750.jpg,15272123457998.jpg,,,,,,,,
+235,Ame18fieldstation-132,Point,119.9459288,-21.34853563,Garnets in River polished pavement .,119,75,,,92,,,,,,,,,,,AME18_060 a,H n,15272319229908.jpg,15272318814201.jpg,15272308614708.jpg,15272308286997.jpg,,,,,,
+239,Ame18fieldstation-133,Point,119.9178261,-21.33871737,Vesicular volcanic with infilled calcite_ and perhaps garnet.,304,84,,,75,,,,,,,,,,,AME18_061a,292 80 overturned,15272927694031.jpg,,,,,,,,,
+240,Ame18fieldstation-133,Point,119.9178261,-21.33871737,Vesicular volcanic with infilled calcite_ and perhaps garnet.,292,80,,,77,,,,,,,,,,,AME18_061a,292 80 overturned,15272927694031.jpg,,,,,,,,,
+241,Ame18fieldstation-134,Point,119.9180111,-21.33875493,JusT a few meters to the east of the last station_ a highly altered rock filled with golf sized modules that look like garnet.,286,89,,,,,,,,,,,,,,AME18_062a,286 89 overturned.,,,,,,,,,,
+242,Ame18fieldstation-134,Point,119.9180111,-21.33875493,JusT a few meters to the east of the last station_ a highly altered rock filled with golf sized modules that look like garnet.,124,69,,,,,,,,,,,,,,AME18_062a,286 89 overturned.,,,,,,,,,,
+244,Ame18fieldstation-135,Point,119.9139806,-21.34094695,Felsic muscovite schist with small porphyroclasts_ has some resembled to garnet.,286,77,338,74,80,,,,,,,,,,,AME18_063,286 77,15273006698758.jpg,15273006176227.jpg,,,,,,,,
+246,Ame18fieldstation-136,Point,119.9134625,-21.3432048,Schisty chert bed about three meters thick.,265,80,,,64,,,,,,,,,,,AME18_064,265 80,15273024731567.jpg,,,,,,,,,
+247,Ame18fieldstation-137,Point,119.9134416,-21.34322083,Just north of the chert_ an L>>S tectonite with garnet porphyroclasts_ some of which may record brittle boudige with quartz vein infill.,257,80,,,60,,,,,,,,,,,AME18_065a,257 80,15273043462968.jpg,15273042115835.jpg,15273038763868.jpg,15273029384060.jpg,,,,,,
+256,Ame18fieldstation-141,Point,119.9205272,-21.3314095,Well within the granitoid of the mt Edgar. Sampling a medium grained granitic gneiss with a clear reverse sense of shear (a) and a fine grained granitic rock for geochemistry. (B).,106,65,,,110,,,,,,,,,,,AME18_068a,Face (slightly shallower than foliation 105 60,15273162087682.jpg,,,,,,,,,
+257,Ame18fieldstation-141,Point,119.9205272,-21.3314095,Well within the granitoid of the mt Edgar. Sampling a medium grained granitic gneiss with a clear reverse sense of shear (a) and a fine grained granitic rock for geochemistry. (B).,130,74,,,,,,,,,,,,,,AME18_068a,Face (slightly shallower than foliation 105 60,15273162087682.jpg,,,,,,,,,
+258,Ame18fieldstation-142,Point,119.9195154,-21.33283248,L tectonite schistos paragneiss.,115,72,,,95,,,,,,,,,,,AME18_069,115 72,15273181985185.jpg,,,,,,,,,
+261,Ame18fieldstation-145,Point,119.8911931,-21.32128562,Quartzofeldspathic schist_ sampled as a representative of what most of the rocked are walking over looks like.,117,80,,,110,,,,,,,,,,,AME18_070,117 80,15273781409597.jpg,,,,,,,,,
+265,Ame18fieldstation-148,Point,119.8952973,-21.31335882,Orthogneiss rich in amphiboles. Feldspars recrystallized and small.,139,68,,,,,,,,,,,,,,AME18_071,139 68,15273812992767.jpg,15273812770398.jpg,,,,,,,,
+267,Ame18fieldstation-149,Point,119.8974258,-21.3115601,A series of granitic rocks exposed along the riverbank. Massive_ gneissic granitoid sampled by Ross for geochemistry. I sampled a more intensely sheared gneiss zone. Both are L>>S tectonites.,170,70,,,90,,,,,,,,,,,AME18_072b,,15273843789970.jpg,15273842705721.jpg,15273840156349.jpg,,,,,,,
+275,Ame18fieldstation-155,Point,119.9025872,-21.30882673,Crappy outcrop of fine grained orthogneiss. Foliation parallel sheared pegmatite is common_ about 4 cm thick. Granite may show reverse sense of shear.,125,50,,,102,,,,,,,,,,,AME18_073,125 50,15273877957201.jpg,,,,,,,,,
+279,Ame18fieldstation-158,Point,119.8872179,-21.32938978,Top of warrawoo peak_ sampling the lumpy deformed quartz-porpyroblast/clast rich rock that we have been seeing all the time in float. It is very competent_ but breaks apart chalky. The outcrop is a bit rubble_ and it can be hard to tell what is in place. Both samples are close to in place_ probably sample b is better than sample a. Sample c may be the most in place.,126,84,,,120,,,,,,,,,,,AME18_074a,126 73 overturned face,15274064036983.jpg,15274063695599.jpg,,,,,,,,
+280,Ame18fieldstation-158,Point,119.8872179,-21.32938978,Top of warrawoo peak_ sampling the lumpy deformed quartz-porpyroblast/clast rich rock that we have been seeing all the time in float. It is very competent_ but breaks apart chalky. The outcrop is a bit rubble_ and it can be hard to tell what is in place. Both samples are close to in place_ probably sample b is better than sample a. Sample c may be the most in place.,126,73,,,100,,,,,,,,,,,AME18_074a,126 73 overturned face,15274064036983.jpg,15274063695599.jpg,,,,,,,,
+281,Ame18fieldstation-158,Point,119.8872179,-21.32938978,Top of warrawoo peak_ sampling the lumpy deformed quartz-porpyroblast/clast rich rock that we have been seeing all the time in float. It is very competent_ but breaks apart chalky. The outcrop is a bit rubble_ and it can be hard to tell what is in place. Both samples are close to in place_ probably sample b is better than sample a. Sample c may be the most in place.,115,86,,,,,,,,,,,,,,AME18_074a,126 73 overturned face,15274064036983.jpg,15274063695599.jpg,,,,,,,,
+282,Ame18fieldstation-159,Point,119.888558,-21.32824297,Assymmetrical folds of quartz in th quartzofeldspathic schist unit. Hinge parallel to stretching lineation.,131,72,,,105,,,,,,,,,,,AME18_075a and b,H n and on face.,15274089134348.jpg,15274086485791.jpg,15274086260704.jpg,,,,,,,
+286,Ame18fieldstation-161,Point,119.9041752,-21.32256878,Augean gneiss with clear assymetery. My best guess is reverse sense of shear_ though cuts parallel to the lineation are not common.,129,60,,,68,,,,,,,,,,,AME18_076a,129 60,15274698125601.jpg,15274696960923.jpg,,,,,,,,
+290,Ame18fieldstation-163,Point,119.9022336,-21.32659745,Quartzofeldspathic schist of the duffer_ with small quartz or feldspar porphyroclasts.,130,81,,,108,,,,,,,,,,,AME18_078,130 81,15274750330552.jpg,15274749957595.jpg,,,,,,,,
+292,Ame18fieldstation-164,Point,119.9887995,-21.39717762,"Corun downs gneiss earth_ highly deformed with s-c fabric that shows a predomintly sinistral shear sense_ even though lineation points nearly down dip. Transpression?
+
+It seems like there is an older strike slip fabric or fabrics_ and then on the S planes_ there is a stretching lineation subperpendicular to the sliding direction on the biotite s surfaces. 
+
+There are also areas with dextral motion_ including offset aplite dikes. These dikes are dextrally offset even along strike of the area with the most clear sinistral sc and porphyroclasts fabrics. Interesting. Did a full set of photos to create a stitched together outcrop image.",98,80,252,68,110,,,foliation,gneissic_folia,,,,,,,AME18_079 geochemistry,,15276551820338.jpg,15276484208948.jpg,,,,,,,,
+297,Ame18fieldstation-166,Point,119.9952607,-21.3867945,Found another garnet locality. Quartzofeldspathic schist with sparse garnet porphyroclasts and quartz tails. Garnets are about pea sized. In regularly alterting felsic and mafic schists at the meter scale.,122,78,226,78,93,,,foliation,schistosity,,,,,,,AME18_080,122 78,15276661480674.jpg,15276660874125.jpg,15276660529371.jpg,,,,,,,
+300,Ame18fieldstation-167,Point,119.9950775,-21.38817278,Bedding parallel gneissic unit_ one of a few in the area that are abou 2 m wide. Lineation defines by smeared biotite books. Did not remember to get coordites_ so coordites are approximate_ selected from map.,304,85,328,78,79,,,foliation,gneissic_folia,,,,,,,AME18_081 geochemistry,,15276675421124.jpg,15276674561279.jpg,,,,,,,,
+302,Ame18fieldstation-168,Point,119.9947036,-21.3897847,Garnet locality in a biotite quartzofeldspathic schist. Small 1 mm garnets.,291,83,98,61,118,,,foliation,gneissic_folia,,,,,,,AME18_082,H n_ orientation at sample location recordedv,15276687026608.jpg,,,,,,,,,
+307,Ame18fieldstation-170,Point,119.9918137,-21.3942731,,90,62,,,60,,,,,fold,s_fold,106,30,,,AME18_083,,15277269340288.jpg,15277268937675.jpg,,,,,,,,
+316,Ame18fieldstation-174,Point,119.9918266,-21.39429047,Meter thick chert bed folded in two ways. 1 small steeply plunging folds. 2 large horizontal asymmetric folds,112,73,,,,,,bedding,,fold,,249,48,,,AME18_084a,,15277304782954.jpg,,,,,,,,,
+322,Ame18fieldstation-178,Point,119.9918073,-21.39428106,Magnetite crystals define lineation.,120,88,,,44,,,,,,,,,,,AME18_085,,15277337880815.jpg,,,,,,,,,
+328,Ame18fieldstation-181,Point,119.9404723,-21.36368263,Chert bed. Stretching Lin.,307,76,,,98,,,,,,,,,,,AME18_087,307 76,15277488373861.jpg,,,,,,,,,
+329,Ame18fieldstation-182,Point,119.9386073,-21.36799155,Chert bed at the southern end of the euro basalt_ shortly before we entered Corun downs granitoids. The chert bed is about 4 meters wide_ and comprises the the spine of the ridge that is parallel to the belt.,120,83,,,88,,,,,,,,,,,AME18_088,Chert bedding 120 83 overturned face.,,,,,,,,,,
+332,Ame18fieldstation-185,Point,119.841805,-21.34234136,In the euro basalt_ right at the margin of the Corun downs granitic complex. Metabasalt is massive in most places_ but the fracture pattern clues me in to the presence of a weak fabric.,49,64,,,126,,,foliation,,,,,,,,AME18_091,049 64,,,,,,,,,,
+335,Ame18fieldstation-188,Point,119.839527,-21.33443135,Coherent mafic schist_,82,67,,,104,,,foliation,schistosity,,,,,,,AME18_092 geochemistry,,15278173756704.jpg,15278171660634.jpg,15278171430151.jpg,,,,,,,
+334,Ame18fieldstation-187,Point,119.8395419,-21.33443447,Strongly foliated and lineated chert bed_ about 0.5 meters thick.,88,75,,,89,,,,,,,,,,,AME18_093,088 75,15278163150013.jpg,,,,,,,,,
+338,Ame18fieldstation-189,Point,119.8413897,-21.32958157,Chert bed_ 1 m wide and strongly lineated. Possibly L tectonite.,104,84,,,95,,,bedding,,,,,,,,AME18_094,104 84,15278190197741.jpg,15278190069509.jpg,,,,,,,,
+340,Ame18fieldstation-192,Point,119.8413332,-21.32531538,The so called “zone of sinking”. Quartzofeldspathic schist L>>S tectonite.,41,81,,,70,,,foliation,,,,,,,,AME18_095,041 81,15278206586772.jpg,,,,,,,,,
+342,Ame18fieldstation-194,Point,119.8394029,-21.32369322,Chert bed 2 m wide_ all veined up.,284,75,,,95,,,bedding,,,,,,,,AME18_096,284 75,15278221785327.jpg,,,,,,,,,
+344,Ame18fieldstation-196,Point,119.8453029,-21.31833304,Chert bed in the chlorite schist zine of sinking.,93,81,,,84,,,bedding,,,,,,,,AME18_098,093 81,,,,,,,,,,
+346,Ame18fieldstation-198,Point,119.8453109,-21.31821745,Schist with large porphyroclasts_ not sure what it is. In zone of sinking.,262,70,,,100,,,bedding,,,,,,,,AME18_099 geochemistry,,15278265034838.jpg,,,,,,,,,
+345,Ame18fieldstation-197,Point,119.8454207,-21.31818485,Another chert bed,86,85,,,91,,,bedding,,,,,,,,AME18_100,086 85,15278249820662.jpg,,,,,,,,,
+349,Ame18fieldstation-200,Point,119.8524898,-21.31122295,Chert bed_ 3 meters thick and strongly lineated.,303,87,,,100,,,bedding,,,,,,,,AME18_102,303 87,15278324728876.jpg,,,,,,,,,
+350,Ame18fieldstation-201,Point,119.855117,-21.30997405,Marble bar chert member ? More than30 m thick.,322,66,,,89,,,bedding,,,,,,,,AME18_103,322 66,15278336051810.jpg,15278333621575.jpg,,,,,,,,
+352,Ame18fieldstation-202,Point,119.8600474,-21.3094111,Chert bed_ 3 m wide,311,76,,,94,,,bedding,,,,,,,,AME18_104,311 76 overturned face.,15278356713751.jpg,,,,,,,,,
+353,Ame18fieldstation-203,Point,119.9140251,-21.31878463,2 AMS samples c like red on a granite oavement. One is a medium grauned gneiss_ the other a fine grained gneiss. About 10 m apart.,122,59,,,,,,foliation,gneissic_folia,,,,,,,AME18_104 a,H n,15279039478070.jpg,,,,,,,,,
+354,Ame18fieldstation-203,Point,119.9140251,-21.31878463,2 AMS samples c like red on a granite oavement. One is a medium grauned gneiss_ the other a fine grained gneiss. About 10 m apart.,120,65,,,,,,foliation,gneissic_folia,,,,,,,AME18_104 a,H n,15279039478070.jpg,,,,,,,,,
+358,Ame18fieldstation-206,Point,119.9095105,-21.32683811,Very stripy biotite gneiss. Just north of where we camped for the night.,115,59,,,115,,,,,,,,,,,AME18_105a,115 59,15279075880565.jpg,15279074350036.jpg,15279073902075.jpg,,,,,,,
+359,Ame18fieldstation-206,Point,119.9095105,-21.32683811,Very stripy biotite gneiss. Just north of where we camped for the night.,116,64,,,100,,,,,,,,,,,AME18_105a,115 59,15279075880565.jpg,15279074350036.jpg,15279073902075.jpg,,,,,,,
+364,Ame18fieldstation-208,Point,119.9747968,-21.37223808,Partially migmatite and veined orthogneiss of the Underwood unit. Two tabular zones where leucosimes intermingle with a mafic biotite rich band. (See pic). The granitic portions of the gneiss have differing grain size_ from coarse to fine. These zones parallel the mafic zones and foliation.,126,66,,,120,,,,,,,,,,,AME18_107 geochemistry,,15279976328399.jpg,15279968278318.jpg,,,,,,,,
+365,Ame18fieldstation-208,Point,119.9747968,-21.37223808,Partially migmatite and veined orthogneiss of the Underwood unit. Two tabular zones where leucosimes intermingle with a mafic biotite rich band. (See pic). The granitic portions of the gneiss have differing grain size_ from coarse to fine. These zones parallel the mafic zones and foliation.,130,65,,,113,,,,,,,,,,,AME18_107 geochemistry,,15279976328399.jpg,15279968278318.jpg,,,,,,,,
+366,Ame18fieldstation-208,Point,119.9747968,-21.37223808,Partially migmatite and veined orthogneiss of the Underwood unit. Two tabular zones where leucosimes intermingle with a mafic biotite rich band. (See pic). The granitic portions of the gneiss have differing grain size_ from coarse to fine. These zones parallel the mafic zones and foliation.,137,68,,,114,,,,,,,,,,,AME18_107 geochemistry,,15279976328399.jpg,15279968278318.jpg,,,,,,,,
+367,Ame18fieldstation-209,Point,119.9835353,-21.36172887,"1.37 0.42 0.57 0.03
+
+Ams station.",174,54,,,,,,foliation,mineral_alignm,,,,,,,AME18_108 a and b,H n,15280030170057.jpg,,,,,,,,,
+368,Ame18fieldstation-210,Point,119.9805782,-21.35692862,"Banded gneiss.
+
+.05 .04 .08 0.10",120,85,,,,,,foliation,mineral_alignm,,,,,,,AME18_109 a and b,H n,15280046191358.jpg,15280045903270.jpg,,,,,,,,
+53,Ame18fieldstation-27,Point,119.9446412,-21.34901998,Felsic schist_ May be garnet bearing_ or may be felsic erruptive rock.,121,81,,,,,,foliation,schistosity,,,,,,,AME18_11,,,,,,,,,,,
+370,Ame18fieldstation-211,Point,119.976978,-21.35001973,"Banded grey gneiss coarse grained.
+
+.0 -.03 .04 .01",136,55,,,,,,foliation,mineral_alignm,,,,,,,AME18_110 a b,H n,15280069713753.jpg,15280059886111.jpg,,,,,,,,
+372,Ame18fieldstation-212,Point,119.9715878,-21.34106732,"Banded gneiss. Sample is definitely in place_ sample b is 80 sure in place. Block between them has shifted.
+
+.20 .74 .52 .38",110,58,,,,,,foliation,mineral_alignm,,,,,,,AME18_111 a b,H n. A also has fol plane 110 58 marked.,15280089823093.jpg,,,,,,,,,
+373,Ame18fieldstation-213,Point,119.9654219,-21.32478383,".00 .03 .03 -.03
+
+Another banded gneiss. Sampled fine grained homogenous bands.",305,84,,,,,,foliation,mineral_alignm,,,,,,,AME18_112 a b,H n,15280113921450.jpg,15280112476157.jpg,,,,,,,,
+376,Ame18fieldstation-215,Point,119.9738407,-21.31841822,"Foliated granite. 
+
+1.40
+2.60
+1.69
+3.08",112,78,,,,,,,,,,,,,,AME18_114 a b,H n,15280155013650.jpg,,,,,,,,,
+377,Ame18fieldstation-216,Point,119.9738318,-21.31842477,Banded migmatite has igneous contact with foliated granite. Migmatite bands subparallel to foliation of granite.,105,84,,,,,,foliation,mineral_alignm,,,,,,,AME18_115 geochemistry,,15280157324750.jpg,15280156784747.jpg,,,,,,,,
+379,Ame18fieldstation-217,Point,120.0141333,-21.3197443,"Foliated granite. 
+
+1.08 
+.61
+.15
+1.23",295,66,,,,,,foliation,mineral_alignm,,,,,,,AME18_116 a b,H n,15280880688956.jpg,,,,,,,,,
+380,Ame18fieldstation-218,Point,120.0059323,-21.31998268,"Foliated granite_ cool texture that Ross is collecting a sample of. Concentric ring of feldspars. 
+
+1.45
+1.20
+.65
+1.64",334,76,,,,,,foliation,mineral_alignm,,,,,,,AME18_117 a b,H n,15280899136593.jpg,15280898344397.jpg,,,,,,,,
+382,Ame18fieldstation-219,Point,119.9993529,-21.31863759,"Foliated granite with aplite dikes.
+
+.62
+.69
+2.21
+0.59",281,66,,,,,,foliation,mineral_alignm,,,,,,,AME18_118 a b,Hn,15280926301429.jpg,,,,,,,,,
+384,Ame18fieldstation-220,Point,120.0000322,-21.3094988,"Foliated granite. 
+
+1.38
+2.23
+2.47
+2.87",284,74,,,,,,foliation,mineral_alignm,,,,,,,AME18_119 a b,H n,15280948861563.jpg,,,,,,,,,
+54,Ame18fieldstation-28,Point,119.9242293,-21.34817217,Hi Jed up into the hills from the camp down in the creek. The goal was to get into the slice of the Apex basalt. We are not sure if we are there_ but we certainly found garnets in a felsic schist. Sampled it.,103,72,,,98,,,,,,,,,,,AME18_012,Oriented by fabric_ 103 72 98,15259329767100.jpg,,,,,,,,,
+385,Ame18fieldstation-221,Point,120.001689,-21.30147456,"Foliated granite
+
+1.55
+1.42
+1.30
+1.76",274,65,,,,,,foliation,mineral_alignm,,,,,,,AME18_120 a b,H n,15280968224416.jpg,15280967758793.jpg,,,,,,,,
+387,Ame18fieldstation-222,Point,119.9906737,-21.30738872,"1.28
+0.97
+1.08
+0.44",282,60,,,,,,foliation,mineral_alignm,,,,,,,AME18_121 a b,,15280996150044.jpg,,,,,,,,,
+391,Ame18fieldstation-225,Point,119.8457182,-21.01832987,North Star basalt outcrop. Sheared metabasalt with potential pillow outlines. If so_ pillows are flattened and 2 m in width. diameter.,170,82,,,,,,,,,,,,,,AME18_123,,15281718145130.jpg,15281717020952.jpg,,,,,,,,
+394,Ame18fieldstation-227,Point,120.1442654,-21.19383487,"Pophyritic granite with dark minerals every 5 cm or so. Magnetite? Halos of felsic around it. Foliation is variable in strength_ but hard to measure on the rounded outcrop. Quite weakly foliated in most places. 
+
+0.00
+0.38
+0.03
+0.08",136,65,,,,,,foliation,mineral_alignm,,,,,,,AME18_125 a b,H n,15284255596408.jpg,15284244088934.jpg,,,,,,,,
+396,Ame18fieldstation-228,Point,120.133914,-21.19343095,"Coarse granite very similar to previous outcrop. Porphyroclasts of hornblende (?) with felsic halos. Concentration of these is higher here than at previous station. Very week foliation. Hornblend s seem to weakly align on the foliation surface to form a lineation. 
+
+1.92
+0.99
+3.43
+0.82",165,69,,,,,,,,,,,,,,AME18_126 a b,H n,15284280874699.jpg,,,,,,,,,
+397,Ame18fieldstation-229,Point,120.1220142,-21.19281492,"Strongly foliated granite. Pegmatite present subparallel to foliation. 
+
+0.04
+2.64
+0.37
+2.58",116,79,,,,,,,,,,,,,,AME18_127 a b,H n,15284312317624.jpg,,,,,,,,,
+399,Ame18fieldstation-230,Point,120.0939533,-21.19220207,"Medium to fine grained gneiss_ some small felsic bands_ but overall quite massive.
+
+1.97
+0.33
+1.54
+2.83",272,81,,,,,,foliation,mineral_alignm,,,,,,,AME18_128 a b,H n,15284356531400.jpg,15284354539040.jpg,,,,,,,,
+401,Ame18fieldstation-231,Point,120.0939467,-21.19223766,Quartz vein in granite_ about 20 cm thick.,185,75,,,,,,,,,,,,,,AME18_129,185 75,15284363634927.jpg,15284361708781.jpg,,,,,,,,
+403,Ame18fieldstation-232,Point,120.0651452,-21.19087317,"Very coarse gneiss with amphibole rich pegmatites. Sample b had to be remarked after sampling_ may be a few deg off.
+
+0.70
+0.73
+0.74
+1.14",130,80,,,,,,foliation,gneissic_folia,,,,,,,AME18_130 A b,H n,15284415688341.jpg,15284396999810.jpg,15284382405716.jpg,,,,,,,
+406,Ame18fieldstation-233,Point,120.0453157,-21.18356901,"Heterogeneous gneiss. A medium to coarse foliated granite_ finely lamited fine grained gneiss.
+
+0.02
+0.03
+0.02
+0.08",290,46,,,,,,foliation,gneissic_folia,,,,,,,AME18_131 a b,H n,15284434291884.jpg,15284434214593.jpg,15284434142286.jpg,,,,,,,
+409,Ame18fieldstation-234,Point,120.0337188,-21.18337769,"Banded and folded gneiss_ folds are horizontal hinges and verge to the northwest.
+
+0.05
+0.03
+0.06
+0.04",34,34,,,,,,foliation,gneissic_folia,,,,,,,AME18_132 a b,H n,15284457960027.jpg,15284451494705.jpg,15284450966262.jpg,15284450626187.jpg,15284449882877.jpg,,,,,
+419,Ame18fieldstation-236,Point,120.1422524,-20.95209206,"Coppin’s gap granodiorite. Coarse grained with amphibole and or magnetite. Massive_ no easily discernible fabric. Best guess taken. 
+
+0.43
+0.96
+0.33
+0.50",214,85,,,,,,foliation,mineral_alignm,,,,,,,AME18_134 a b,H n,15285118365583.jpg,15285115469051.jpg,,,,,,,,
+421,Ame18fieldstation-237,Point,120.1290363,-20.95585885,"Similar to last outcrop.
+
+1.70
+1.39
+1.88
+2.13",12,87,,,,,,foliation,mineral_alignm,,,,,,,AME18_135 a b,H n,15285141923360.jpg,,,,,,,,,
+423,Ame18fieldstation-239,Point,120.0950333,-20.94113842,"1.31
+1.32
+1.11
+1.05",156,69,,,,,,foliation,solid_state_mineral_alignment,,,,,,,AME18_137 a b,H n,15285207949543.jpg,,,,,,,,,
+429,Ame18fieldstation-245,Point,120.1735759,-21.32716798,Picked up the undergrads Rex and Casey_ spent the night in Port Hedland_ and then drove straight to the Francois et al entrained granite locality. Hiked 2.5 kilometers from the truck to the southwest side of a prominent garnet hill. Found a metasedimentary rock with very garnet rich layers. Garnets are pea sized on average_ but have a range of grain sizes.,31,66,,,146,,,,,,,,,,,AME18_138A,031 66 SE 146,15286981077297.jpg,,,,,,,,,
+430,Ame18fieldstation-245,Point,120.1735759,-21.32716798,Picked up the undergrads Rex and Casey_ spent the night in Port Hedland_ and then drove straight to the Francois et al entrained granite locality. Hiked 2.5 kilometers from the truck to the southwest side of a prominent garnet hill. Found a metasedimentary rock with very garnet rich layers. Garnets are pea sized on average_ but have a range of grain sizes.,22,75,,,148,,,,,,,,,,,AME18_138A,031 66 SE 146,15286981077297.jpg,,,,,,,,,
+432,Ame18fieldstation-246,Point,120.173647,-21.32637368,"Medium grained gneiss_ some banding. Base of big granite hill. Sheared mafic enclaves.
+
+1.55
+2.11
+0.29
+2.36",50,68,,,,,,,,,,,,,,AME18_139 a b,H n,15287015011228.jpg,15287009830891.jpg,,,,,,,,
+58,Ame18fieldstation-30,Point,119.9275334,-21.34632662,Thinly interbedded schist and chert layers. Interval is 1 cm_ but sampled one chert bed that is 12 cm thick.,295,64,,,80,,,,,,,,,,,AME18_014,,15259358586465.jpg,15259358430906.jpg,,,,,,,,
+434,Ame18fieldstation-247,Point,120.1321373,-20.9757485,"Coppin’s gap granodiorite. Fine grained to medium grained gneiss. 
+
+0.00
+0.14
+0.23
+0.24",219,83,,,,,,,,,,,,,,AME18_140 a b,H n,15287670011581.jpg,,,,,,,,,
+438,Ame18fieldstation-249,Point,120.0991384,-20.9869206,Previous drilling spot. Got a hand sample for thin sectioning. Strong foliation_ stretched quartz. Much stronger than previous station.,355,84,,,,,,,,,,,,,,AME18_142,H n,15287690964121.jpg,,,,,,,,,
+439,Ame18fieldstation-249,Point,120.0991384,-20.9869206,Previous drilling spot. Got a hand sample for thin sectioning. Strong foliation_ stretched quartz. Much stronger than previous station.,5,82,,,,,,,,,,,,,,AME18_142,H n,15287690964121.jpg,,,,,,,,,
+440,Ame18fieldstation-250,Point,120.0835453,-20.99179178,"Very coarse grained granodiorite. 1 cm feldspar laths_ smaller grained amphibole and biotite. 
+
+0.10
+0.13
+0.10
+0.08
+
+In the same outcrop_ there is also a more mafic_ medium to fine grained granodiorite.",187,74,,,,,,,,,,,,,,AME18_143 a b,H n,15287710637113.jpg,15287710535987.jpg,15287709836854.jpg,,,,,,,
+443,Ame18fieldstation-251,Point,120.0550386,-21.00751228,"0.04
+0.01
+0.02
+0.03
+
+Low outcrop of porphyritic granite with 1-2 cm feldspars.",50,60,,,,,,,,,,,,,,AME18_144 a b,H n,15287742870549.jpg,,,,,,,,,
+444,Ame18fieldstation-252,Point,120.052909,-21.01743363,,98,64,,,,,,vein,,,,,,,,AME18_145 a b,,15287781876592.jpg,,,,,,,,,
+447,Ame18fieldstation-253,Point,120.0468968,-21.04111856,A large 10 m across pavement. Slightly banded gneiss.,186,87,,,,,,foliation,gneissic_folia,,,,,,,AME18_146 a b,H n,15287835301234.jpg,,,,,,,,,
+449,Ame18fieldstation-254,Point,120.0481386,-21.05169171,Foliated granite. Broke sledge hammer.,167,64,,,,,,,,,,,,,,AME18_147 a b,H n,15287858478784.jpg,,,,,,,,,
+450,Ame18fieldstation-255,Point,120.0611331,-21.06627582,Amphibole rich granitic rock. Strong foliation. Sample b is only maybe in place. Sample a is very good and definitely in place. The two samples are about 20 m from one another.,270,76,,,,,,,,,,,,,,AME18_148 a b,H n,15287886884742.jpg,15287886430225.jpg,,,,,,,,
+60,Ame18fieldstation-31,Point,119.925586,-21.32578485,Amphibolite banded gneiss_ migmatite in areas_ granitic bands present.,143,56,,,,,,foliation,gneissic_folia,,,,,,,AME18_015,,,,,,,,,,,
+453,Ame18fieldstation-257,Point,120.1463429,-21.1917396,Medium grained amphibole granitoid with the occasiol very large (3 cm) feldspar. Banded in places.,161,62,,,,,,foliation,mineral_alignm,,,,,,,AME18_150 A b,H n,15288644146282.jpg,15288638173186.jpg,,,,,,,,
+455,Ame18fieldstation-258,Point,120.1399487,-21.18463422,"Medium to coarse grained granitoid. Occasiol large feldspar phenocrysts.
+
+1.01
+1.11
+0.93
+0.79",165,86,,,,,,foliation,mineral_alignm,,,,,,,AME18_151 a b,,15288684799287.jpg,15288679657952.jpg,,,,,,,,
+457,Ame18fieldstation-259,Point,120.1280128,-21.1770051,"Highly banded gneiss_ full of swirly pegmatites.
+
+0.38
+0.20
+0.79
+0.36",305,78,,,,,,foliation,gneissic_folia,,,,,,,AME18_152 a b,,15288707498606.jpg,15288707421991.jpg,,,,,,,,
+460,Ame18fieldstation-261,Point,120.128301,-21.16458961,"Fine grained mildly banded gneiss.
+
+0.05
+0.01
+0.06
+0.06",65,80,,,,,,foliation,gneissic_folia,,,,,,,AME18_154 a b,H n,15288729257324.jpg,,,,,,,,,
+461,Ame18fieldstation-262,Point,120.1194638,-21.15045907,"Coarse grained granite gneiss with some banding. Amphibole.
+
+2.39
+0.94
+0.70
+1.30",352,82,,,,,,foliation,gneissic_folia,,,,,,,AME18_155 a b,H n,15288748105289.jpg,15288744073428.jpg,,,,,,,,
+463,Ame18fieldstation-263,Point,120.1205087,-21.14120445,"Partially migmatite gneiss.
+
+0.63
+0.51
+0.14
+1.92
+
+Two pretty crappy samples.",286,85,,,,,,foliation,gneissic_folia,,,,,,,AME18_156 a b,H n,15288778279448.jpg,15288763839083.jpg,15288763667429.jpg,,,,,,,
+466,Ame18fieldstation-264,Point,120.1216,-21.13730434,100 x 10 m boulder pavement. Banded gneiss with coarse grain size. Some migmatization and or pegmatites. More mafic_ but still granitic/dioritic dikes cut roughly perpendicular to the gneissic fabric.,200,57,,,,,,foliation,gneissic_folia,,,,,,,AME18_157 a b,"A: hn
+B: h n and strike dip of surface.",15289367566627.jpg,15289362144948.jpg,15289362025172.jpg,15289361948640.jpg,,,,,,
+470,Ame18fieldstation-265,Point,120.1194197,-21.13296213,Boulder field. Right next to GSWA geochron blast site. Medium grained banded gneiss. Across the outcrops_ the foliation weakened dramatically. By Rosses sample_ 50 m to the north_ there is barely a fabric at all,290,70,,,,,,foliation,mineral_alignm,,,,,,,AME18_158 A b,H n,15289390348560.jpg,15289389762041.jpg,,,,,,,,
+472,Ame18fieldstation-266,Point,120.10856,-21.1314047,Small outcropof massive fine to medium grained granite.,173,66,,,,,,foliation,mineral_alignm,,,,,,,AME18_159 a b,H n,15289427245941.jpg,,,,,,,,,
+63,Ame18fieldstation-32,Point,119.9254142,-21.31819557,Coarse grained banded gneiss. Less than 1 cm mafic bands_ with thicker felsic horizons. Quartz plag hornblend biotite. Kspar. Foliatio,96,50,,,,,,,,,,,,,,AME18_016,Horizontal and north,,,,,,,,,,
+473,Ame18fieldstation-267,Point,120.1006738,-21.12707133,Medium grained foliated granite.,172,77,,,,,,foliation,mineral_alignm,,,,,,,AME18_160 a b,H n,15289454817435.jpg,,,,,,,,,
+475,Ame18fieldstation-268,Point,120.0875586,-21.12545509,Granite pavement next to the quartz range. Medium grained weakly foliated granite. Foliation is hard to pick out may be multiple.,96,85,,,,,,foliation,mineral_alignm,,,,,,,AME18_161 a b,H n,15289469558728.jpg,,,,,,,,,
+477,Ame18fieldstation-269,Point,120.0817117,-21.11727763,Medium grained granitic rock. Weak foliation maybe present.,320,71,,,,,,foliation,mineral_alignm,,,,,,,AME18_162 a b,H n,15289557005141.jpg,,,,,,,,,
+479,Ame18fieldstation-271,Point,120.1156585,-21.12069421,Outcrops next to the talga river_ medium grainedgranific rock. Samples are 10 m apart.,265,66,,,,,,foliation,gneissic_folia,,,,,,,AME18_164 A b,H n,15289626983630.jpg,,,,,,,,,
+480,Ame18fieldstation-272,Point,119.9920134,-21.26642379,"Fine grained granitoid with euhedral  amphiboles. In contact with a more strongly deformed medium to coarse grained granitoid. See pic. 
+
+3.24
+3.76
+4.77
+3.11",230,66,,,,,,foliation,mineral_alignm,,,,,,,AME18_165 A b,H n,15291203217028.jpg,15291202251964.jpg,15291202178153.jpg,15291202067936.jpg,,,,,,
+484,Ame18fieldstation-273,Point,119.9942161,-21.26644533,Coarse grained granitoid_ L > S tectonite.,316,52,,,72,,,foliation,gneissic_folia,,,,,,,AME18_166,H n and foliation_ 316 52,15291221266095.jpg,15291221199372.jpg,,,,,,,,
+486,Ame18fieldstation-274,Point,120.0000278,-21.25485988,Coarse grained foliated gneiss.not good outcrop. Less than 1 m apart.,10,39,,,,,,,,,,,,,,AME18_167 a b,H n,,,,,,,,,,
+487,Ame18fieldstation-275,Point,120.0119295,-21.24415288,Two outcrops 30 m apart. Coarse foliated gneiss.,131,37,,,,,,foliation,gneissic_folia,,,,,,,AME18_168 a b,H n,15291293938114.jpg,,,,,,,,,
+488,Ame18fieldstation-276,Point,120.0112563,-21.2230263,Coarse grained granitic gneiss. Strongly foliated. Cut by a foliation parallel dike_ and all are displaced along a rrow shear zone.,61,44,,,,,,foliation,gneissic_folia,,,,,,,AME18_169 a b,"H n. 
+
+Problem: sample b sampled right next to shear zone_ so foliation bends. Not good exposure away from shear zone.",15291319695639.jpg,15291314240108.jpg,15291309563919.jpg,,,,,,,
+64,Ame18fieldstation-33,Point,119.9258546,-21.31326038,Garnet may be present sampled 1 for a s and a for geochemistry.  Potential garnets have a halo of no biotite around them. Coarse grained gneiss with faint banding. Large horns lends. Biotite present.,130,60,,,,,,foliation,gneissic_folia,,,,,,,AME18_017,Horizontal and north.,15260074429647.jpg,15260074269429.jpg,,,,,,,,
+491,Ame18fieldstation-277,Point,120.0203671,-21.21040812,Wall of foliated granite right next to a fortescue aged dike. Sampled as far from the dike as possible_ about 15 m. Two superimposed foliation. One_ defined by mafic bands_ is shallowly dipping. The other_ defined by felsic bands_ is vertical.,175,28,,,,,,foliation,gneissic_folia,,,,,,,AME18_170 a b,H n,15291336622813.jpg,15291332092040.jpg,,,,,,,,
+493,Ame18fieldstation-278,Point,120.0220582,-21.19694417,"Swirly gneiss. 
+
+
+0.02
+0.03
+0.02
+0.02",222,68,,,,,,foliation,gneissic_folia,,,,,,,AME18_171 A b,H n,15291360177287.jpg,,,,,,,,,
+495,Ame18fieldstation-279,Point,119.8557638,-21.19693178,"Banded biotite gneiss. Slightly migmritic. 
+
+0.04
+0.05
+0.06
+0.02",180,55,,,,,,foliation,mineral_alignm,,,,,,,AME18_172 a b,H n,15292068018003.jpg,15292065392239.jpg,,,,,,,,
+497,Ame18fieldstation-280,Point,119.8530141,-21.20667221,"Migmatiticgneiss pavement. 
+
+0.03
+0.01
+0.01
+0.06
+
+Felsic bands are chiock full of amphibole.",102,84,,,,,,foliation,,,,,,,,AME18_173 a b,H n,15292085601262.jpg,,,,,,,,,
+498,Ame18fieldstation-281,Point,119.8486381,-21.21771588,"Foliated granitoid. Medium grained.
+
+1.96
+1.24
+1.18
+1.74",164,46,,,,,,foliation,mineral_alignm,,,,,,,AME18_174 a b,H n,15292142896763.jpg,,,,,,,,,
+499,Ame18fieldstation-282,Point,119.8507925,-21.22605327,"Medium grained granitoid_ foliated. 
+
+0.07
+0.46
+0.00
+0.34",134,70,,,,,,foliation,mineral_alignm,,,,,,,AME18_175 a b,H n,15292155695315.jpg,,,,,,,,,
+500,Ame18fieldstation-283,Point,119.8481413,-21.2357443,"Foliated granitoid. Lots of amphibole. 
+
+2.07
+1.08
+2.95
+1.03",92,76,,,,,,foliation,mineral_alignm,,,,,,,AME18_176 a b,H n,15292165894237.jpg,,,,,,,,,
+501,Ame18fieldstation-284,Point,119.8452015,-21.24435855,"Foliated granitoid. 
+
+1.41
+1.59
+1.44
+1.00",255,60,,,,,,foliation,mineral_alignm,,,,,,,AME18_177 a b,H n,15292181757564.jpg,,,,,,,,,
+503,Ame18fieldstation-285,Point,120.2364978,-21.040871,"Strongly foliated granite gneiss. Medium grained with feldspar phenocrysts. 
+
+1.43
+2.16
+1.79
+1.68",286,81,,,,,,foliation,gneissic_folia,,,,,,,AME18_178 A b,H n,15292830847709.jpg,,,,,,,,,
+504,Ame18fieldstation-286,Point,120.2273143,-21.04558528,"Corse. A dead gneiss. 
+
+0.47
+0.54
+0.65
+0.65
+
+Next outcrop over_ about 100 m has peg oriented trending 035 recording sinistral offset.",285,58,,,,,,foliation,gneissic_folia,,,,,,,AME18_179 a b,H n,15292848748866.jpg,15292845040121.jpg,15292843802810.jpg,,,,,,,
+507,Ame18fieldstation-287,Point,120.2159801,-21.05733243,"Foliated granitoid. Near a black range dike (200 m)
+
+1.70
+0.84
+0.78
+1.10",281,60,,,,,,foliation,gneissic_folia,,,,,,,AME18_180 a b,"H n
+
+Sample b may be out of place by a few degrees_ slightly slumped?",15292872359512.jpg,,,,,,,,,
+508,Ame18fieldstation-288,Point,120.2152843,-21.08117488,"0.08
+0.05
+0.04
+0.08",255,73,,,,,,foliation,mineral_alignm,,,,,,,AME18_181 a b,H n,15292903591760.jpg,,,,,,,,,
+509,Ame18fieldstation-289,Point,120.226613,-21.0813989,"Gneiss. Medium grained.
+
+0.05
+0.04
+0.05
+0.05",282,74,,,,,,foliation,gneissic_folia,,,,,,,AME18_182 a b,,15292925613235.jpg,15292924986391.jpg,,,,,,,,
+511,Ame18fieldstation-290,Point,120.2395282,-21.09019272,Medium grained granitoid.,275,81,,,,,,foliation,mineral_alignm,,,,,,,AME18_183 a b,H n,15292944127544.jpg,,,,,,,,,
+512,Ame18fieldstation-291,Point,120.1851494,-21.09896093,"Medium to coarse gneiss. 
+
+0.10
+0.05
+0.10
+0.08",286,77,,,,,,foliation,gneissic_folia,,,,,,,AME18_184 A b,H n,15292996356960.jpg,,,,,,,,,
+513,Ame18fieldstation-292,Point,120.1808867,-21.0844536,"Pavement with a contact between massive pegmatite intrusions and banded gneiss
+
+0.04
+0.01
+0.07
+0.05",131,82,,,,,,foliation,gneissic_folia,,,,,,,AME18_185 a b,H n,15293017139404.jpg,15293017072700.jpg,,,,,,,,
+515,Ame18fieldstation-293,Point,120.1822921,-21.07620249,Foliated granite.,316,58,,,,,,foliation,mineral_alignm,,,,,,,AME18_186 a b,H n,15293050297887.jpg,,,,,,,,,
+516,Ame18fieldstation-294,Point,120.1771045,-21.04659928,"Medium grained banded gneiss.
+
+0.06
+0.12
+0.14
+0.06",325,82,,,,,,foliation,gneissic_folia,,,,,,,AME18_187 A b,H n,15293070194901.jpg,,,,,,,,,
+517,Ame18fieldstation-295,Point,120.1786819,-21.02863675,Gneiss. Banded.,289,66,,,,,,foliation,gneissic_folia,,,,,,,AME18_188 a b,H n,15293090780955.jpg,,,,,,,,,
+66,Ame18fieldstation-34,Point,119.9265357,-21.30531093,,109,67,,,,,,,,,,,,,,AME18_018A,H n,15260097241288.jpg,,,,,,,,,
+70,Ame18fieldstation-36,Point,119.9235212,-21.28033045,,65,55,,,,,,,,,,,,,,AME18_019,H n,,,,,,,,,,
+520,Ame18fieldstation-298,Point,120.1550932,-21.1985867,"Medium grained foliated granite. 
+
+0.90
+0.22
+1.47
+0.12
+
+Occasiol large feldspar (pic)",331,74,,,,,,foliation,mineral_alignm,,,,,,,AME18_191 a b,H n,15294604765550.jpg,15294600450748.jpg,,,,,,,,
+522,Ame18fieldstation-299,Point,120.1556824,-21.20666498,"Medium to coarse grained granitic rock. 
+
+1.41
+0.18
+0.66
+1.23",178,77,,,,,,foliation,mineral_alignm,,,,,,,AME18_192,H n,15294621721693.jpg,,,,,,,,,
+523,Ame18fieldstation-300,Point,120.1622222,-21.21678555,Banded gneiss with some migmitizatuon. Gneiss seems swirly_ and we sampled a more homogeneous foliated granite in contact with the gneiss. Foliation s of gneiss and granite are perpendicular.,258,71,,,,,,,,,,,,,,AME18_193 a b,H n,15294650029296.jpg,15294647332743.jpg,15294634726059.jpg,,,,,,,
+526,Ame18fieldstation-301,Point,120.1758902,-21.23858383,"Medium to fine grained banded gneiss. 
+
+1.70
+1.31
+1.49
+1.12",76,60,,,,,,,,,,,,,,AME18_194 a b,H n,15294694753683.jpg,,,,,,,,,
+527,Ame18fieldstation-302,Point,120.2005556,-21.25951827,Weathered outcrop of mixed lithologies. Some banded gneiss_ aplite_ and medium grained granite. Sampled the granite.,185,75,,,,,,foliation,gneissic_folia,,,,,,,AME18_195 a b,H n,15294734431284.jpg,,,,,,,,,
+528,Ame18fieldstation-303,Point,120.2190997,-21.26694099,"2.98
+3.97
+3.41
+4.19
+
+Amphibole magnetite medium granitoid. Strong foliation.",115,84,,,,,,foliation,mineral_alignm,,,,,,,AME18_196 a b,H n,15294754111375.jpg,,,,,,,,,
+529,Ame18fieldstation-304,Point,120.2255987,-21.25630268,"Amphibole granite with thick aplite cutting the outcrop. Coarse grained amphiboles. 
+
+1.10
+0.29
+0.18
+0.08",130,75,,,,,,foliation,mineral_alignm,,,,,,,AME18_197 a b,H n,15294772765282.jpg,15294771480009.jpg,15294771000710.jpg,,,,,,,
+534,Ame18fieldstation-308,Point,119.944957,-21.350845,Large pavement outcrop of mostly quartzofeldspathic schist_ with some 5 to 10 cm chlorite schist interbedded. In one area of the outcrop_ large (0.5 cm) porphyroclasts of magnetite_ amphibole_ and or garnet are present.,120,87,292,70,110,,,foliation,schistosity,,,,,,,AME18_198 a,298 84 overturned,15297151717221.jpg,15297151777167.jpg,15297176861071.jpg,,,,,,,
+535,Ame18fieldstation-308,Point,119.944957,-21.350845,Large pavement outcrop of mostly quartzofeldspathic schist_ with some 5 to 10 cm chlorite schist interbedded. In one area of the outcrop_ large (0.5 cm) porphyroclasts of magnetite_ amphibole_ and or garnet are present.,298,89,301,70,70,,,foliation,schistosity,,,,,,,AME18_198 a,298 84 overturned,15297151717221.jpg,15297151777167.jpg,15297176861071.jpg,,,,,,,
+549,Ame18fieldstation-319,Point,119.94636,-21.349413,Pod of granitic gneiss l tectonite,114,79,266,67,110,,,foliation,gneissic_folia,,,,,,,AME18_200,114 79,15297271292273.jpg,,,,,,,,,
+554,Ame18fieldstation-322,Point,119.947031,-21.349216,Prolomylonite metabasalt. Feldspars show assymetry,118,89,294,76,104,,,foliation,mineral_alignm,,,,,,,AME18_201,290 89,,,,,,,,,,
+562,Ame18fieldstation-328,Point,119.953199,-21.35296,Schist with mm sized clasts.,106,89,283,71,109,,,foliation,schistosity,,,,,,,AME18_202,106 89 rake 109,15297357143716.jpg,15297359648114.jpg,,,,,,,,
+579,Ame18fieldstation-337,Point,119.944591,-21.34944,Very strong lineation.,115,82,276,67,112,,,foliation,plar_schistosity,,,,,,,AME18_204,115 82 overturned.,15298045427183.jpg,,,,,,,,,
+582,Ame18fieldstation-340,Point,119.943294,-21.348068,Flexural shearing showing dextral motion. Quartzofeldspathic schist is foliated at a higher angle to bedding than chlorite schist. Boundary between them has garnets. Sampled garnets.,124,70,256,64,107,,,bedding,,,,,,,,AME18_205a b,124 70,15298078479855.jpg,15298086704761.jpg,,,,,,,,
+594,Ame18fieldstation-345,Point,119.937183,-21.343243,Medium grained granitic gneiss,108,85,,,,,,foliation,gneissic_folia,,,,,,,AME18_206,H n,15298153747071.jpg,,,,,,,,,
+595,Ame18fieldstation-346,Point,119.937017,-21.34183,Large outcrop of a Marcus rich granitic gneiss.,126,71,242,69,99,,,foliation,gneissic_folia,,,,,,,AME18_207,126 71.,15298163456396.jpg,,,,,,,,,
+608,Ame18fieldstation-356,Point,119.93538,-21.342257,YZ plane shows sinistral sos.,100,86,269,70,110,,,foliation,gneissic_folia,,,,,,,AME18_208,100 86,15298233049513.jpg,,,,,,,,,
+611,Ame18fieldstation-359,Point,119.937386,-21.344005,Euhadral magnetite! Chlorite schist with zones of intense crenulation.,92,71,182,71,90,,,foliation,schistosity,,,,,,,AME18_209,092 61,15298248832025.jpg,,,,,,,,,
+71,Ame18fieldstation-37,Point,119.9117636,-21.25971193,Chaotic banded gneiss with pegmatites .,280,70,,,,,,,,,,,,,,AME18_20b,,15260149972556.jpg,15260149739294.jpg,15260149461214.jpg,15260149314510.jpg,15260145593296.jpg,,,,,
+72,Ame18fieldstation-37,Point,119.9117636,-21.25971193,Chaotic banded gneiss with pegmatites .,266,64,,,,,,,,,,,,,,AME18_20b,,15260149972556.jpg,15260149739294.jpg,15260149461214.jpg,15260149314510.jpg,15260145593296.jpg,,,,,
+616,Ame18fieldstation-363,Point,119.945526,-21.350672,Very stripy paragneiss in riverbed outcrop.,127,85,,,112,,,foliation,gneissic_folia,,,,,,,AME18_210,12785,15298285664847.jpg,,,,,,,,,
+637,Ame18fieldstation-376,Point,119.961657,-21.360434,Coherent strong fabric_ ridge forming unit.,150,72,230,72,87,,,foliation,schistosity,,,,,,,AME18_211,147 77,15298966437080.jpg,,,,,,,,,
+645,Ame18fieldstation-381,Point,119.96279,-21.361219,Garnets!,154,68,285,62,108,,,foliation,gneissic_folia,,,,,,,AME18_213 a,,15299058737314.jpg,,,,,,,,,
+646,Ame18fieldstation-381,Point,119.96279,-21.361219,Garnets!,162,70,269,69,96,,,foliation,gneissic_folia,,,,,,,AME18_213 a,,15299058737314.jpg,,,,,,,,,
+648,Ame18fieldstation-382,Point,119.963357,-21.361428,Garnet bearing felsic sees and amphibolite in igneous contact with weakly foliated granite.,115,75,,,,,,foliation,schistosity,,,,,,,AME18_214,H n,15299085846436.jpg,15299086627060.jpg,15299087009078.jpg,,,,,,,
+689,Ame18fieldstation-419,Point,119.938933,-21.355659,,110,85,272,74,105,,,bedding,,,,,,,,AME18_216,,15301471686845.jpg,,,,,,,,,
+698,Ame18fieldstation-428,Point,119.939344,-21.355808,Another sinistral fault with slickenlines. This one also preserves fault breccia. Sampled fault breccia.,219,84,221,16,16,,,fault,,,,,,,,AME18_217,H n,15301506056223.jpg,,,,,,,,,
+705,Ame18fieldstation-435,Point,119.939824,-21.356077,,144,84,300,76,103,,,bedding,,,,,,,,AME18_218,144 84,15301535283711.jpg,,,,,,,,,
+761,Ame18fieldstation-479,Point,119.937954,-21.355378,,200,77,,,,,,foliation,crenulation_cl,,,,,,,AME18_222,H n _ perhaps every slightly slumped.,15302431298537.jpg,,,,,,,,,
+773,Ame18fieldstation-487,Point,119.93823,-21.355928,,61,87,87,83,84,,,bedding,,,,,,,,AME18_223,061 87,,,,,,,,,,
+780,Ame18fieldstation-492,Point,119.939977,-21.357014,,290,82,41,81,93,,,bedding,,,,,,,,AME18_224,290 82,15302542585884.jpg,,,,,,,,,
+812,Ame18fieldstation-516,Point,119.956897,-21.368155,Shallowly plunging lineation in big chert bed.,147,84,324,30,150,,,bedding,,,,,,,,AME18_226,147 84 overturned.,,,,,,,,,,
+813,Ame18fieldstation-517,Point,119.956884,-21.368122,Crenulations with shallowly plunging bands of finer crenulations.,330,83,349,69,70,,,bedding,,,,,,,,AME18_227,H n,15305090573998.jpg,,,,,,,,,
+815,Ame18fieldstation-518,Point,119.956862,-21.368064,,308,79,350,74,78,,,foliation,,,,,,,,AME18_228,Face,,,,,,,,,,
+838,Ame18fieldstation-539,Point,119.954207,-21.364519,Sampled chert bed. Maybe the pervasive fracture pattern is perpendicular to the moderately dipping folds?,134,82,273,78,99,,,bedding,,,,,,,,AME18_229,134 82,,,,,,,,,,
+841,Ame18fieldstation-541,Point,119.95329,-21.364199,Fold in metabasalt.,320,70,,,,,,,,fold,z_fold,110,55,115,80,AME18_230,320 70,15305884196352.jpg,,,,,,,,,
+848,Ame18fieldstation-548,Point,119.9530616,-21.36579916,,309,84,84,82,96,,,bedding,,,,,,,,AME18_231,,,,,,,,,,,
+857,Ame18fieldstation-556,Point,119.953883,-21.367232,Hydrothermally altered and mineralized chert.,319,59,,,,,,bedding,,,,,,,,AME18_232,319 59 maybe slumped very slightly.,15305967336951.jpg,,,,,,,,,
+875,Ame18fieldstation-570,Point,119.962592,-21.361907,,317,86,337,78,79,,,foliation,schistosity,,,,,,,AME18_237,37 86,,,,,,,,,,
+878,Ame18fieldstation-572,Point,119.963421,-21.361944,Asymmetric garnets_ showing reverse shear sense I think.,146,76,303,57,120,,,foliation,schistosity,,,,,,,AME18_239,146 76,,,,,,,,,,
+891,Ame18fieldstation-582,Point,119.960174,-21.357894,Very large garnets in highly banded paragneiss. Very clear normal shear sense_ greenstone down_ me up.,146,57,271,52,111,,,foliation,gneissic_folia,,,,,,,AME18_241,"237 82 fracture plane. 
+146 57",15307690253250.jpg,,,,,,,,,
+900,Ame18fieldstation-591,Point,119.961519,-21.359083,Granite intrusion within limb of the large scale (map scale) fold. In contact with felsic schist. We sampled it for AMS to know if the fabric was the same as the green stones.,107,85,276,66,114,,,foliation,schistosity,,,,,,,AME18_242 a b,H n,15307760566320.jpg,15307760803898.jpg,15307769115227.jpg,,,,,,,
+911,Ame18fieldstation-596,Point,119.943335,-21.356376,May be the limb of a very tight fold_ the north side of the outcrop is sheared_ and,306,84,63,83,93,,,bedding,,,,,,,,AME18_243,306 84,,,,,,,,,,
+938,Ame18fieldstation-614,Point,119.93892,-21.355837,Felsic schist with small porphyroclasts_ very well crenulated.,279,85,311,81,82,,,foliation,schistosity,,,,,,,AME18_245,279 85 overturned.,15308493152860.jpg,,,,,,,,,
+953,Ame18fieldstation-626,Point,119.826237,-21.382074,"Porphyritic granitoid with cm kspar and amphibole and mafic enclaves. Very weak foliation defined by amphibole
+
+0.08
+0.10
+0.23
+0.10",20,80,,,,,,foliation,mineral_alignm,,,,,,,AME18_246 a b,H n,15310155596350.jpg,15310155654831.jpg,15310155862858.jpg,15310161744213.jpg,,,,,,
+959,Ame18fieldstation-629,Point,119.868,-21.391565,"Very coarse grained kspar amphibole granitoid. 3 cm feldspar laths. foliation defined by quartz blebs.
+
+0.06
+0.06
+0.07
+0.05",137,78,,,,,,foliation,mineral_alignm,,,,,,,AME18_249a b,H n,15310225755950.jpg,15310225963347.jpg,15310235139550.jpg,,,,,,,
+962,Ame18fieldstation-630,Point,119.899262,-21.400751,"Contact between very coarse grained porphory and fine grained granitoid. Coarse grained granitoid is entrained in finer grained rock and is locally sheared. 
+
+0.01
+0.01
+0.03
+0.03",126,86,,,,,,foliation,mineral_alignm,,,,,,,AME18_250 a b,H n,15310284027255.jpg,15310284027255.jpg,15310288281453.jpg,15310288564846.jpg,,,,,,
+966,Ame18fieldstation-631,Point,119.909457,-21.39739,Porphory with large kspar_ mafic granitoid groundmass.,53,84,,,,,,foliation,mineral_alignm,,,,,,,AME18_251 a b,H n,15310302653817.jpg,15310303497384.jpg,,,,,,,,
+968,Ame18fieldstation-632,Point,119.917576,-21.39915,Medium grained granitoid_ porphyritic with k spar in some places.,142,88,,,,,,foliation,mineral_alignm,,,,,,,AME18_252 a b,H n,15310330052595.jpg,,,,,,,,,
+969,Ame18fieldstation-633,Point,119.924515,-21.405916,"Coarse grained porphyritic granitoid.
+
+0.09
+0.09
+0.11
+0.05",0,76,,,,,,foliation,mineral_alignm,,,,,,,AME18_253 a b,H n,15310349863149.jpg,,,,,,,,,
+970,Ame18fieldstation-634,Point,119.93073,-21.413722,"Medium grained granitoid with occasiol kspar phenocrysts 
+
+0.04
+0.05
+0.03
+0.06",157,81,,,,,,foliation,mineral_alignm,,,,,,,AME18_254 a b,H n,15310950881922.jpg,15310953382214.jpg,,,,,,,,
+972,Ame18fieldstation-635,Point,119.936237,-21.421542,"Medium to fine grained granitoid with occasiol feldspars_ looks like magmatic flow fabric? Very weak fabric_ hard to tell. 
+
+0.05
+0.02
+0.00
+0.02",113,80,,,,,,foliation,mineral_alignm,,,,,,,AME18_255 a b,H n,15310969830396.jpg,,,,,,,,,
+992,Ame18fieldstation-646,Point,119.950032,-21.157991,"Medium grained granite with mostly magmatic foliation. Very weak.
+
+0.05
+0.03
+0.06
+0.03",60,76,,,,,,foliation,mineral_alignm,,,,,,,AME18_255 a b,H n,15314445513529.jpg,,,,,,,,,
+973,Ame18fieldstation-636,Point,119.944149,-21.431863,"Medium coarse grained granitoid_ occasiol mafic enclaves. Also occasiol feldspar laths. 
+
+0.09
+0.03
+0.03
+0.09",78,66,,,,,,foliation,mineral_alignm,,,,,,,AME18_256 a b,H n,15310998283029.jpg,,,,,,,,,
+974,Ame18fieldstation-637,Point,119.95456,-21.436695,Medium grained grneissic granitoid_ with incipient banding.,92,84,,,,,,foliation,gneissic_folia,,,,,,,AME18_257 a b,H n,15311010155243.jpg,15311010432779.jpg,,,,,,,,
+976,Ame18fieldstation-638,Point,119.968151,-21.434479,"Fine grained banded gneiss 
+
+0.06
+0.07
+0.04
+0.03",125,82,,,,,,foliation,gneissic_folia,,,,,,,AME18_258 a b,H n,15311037986856.jpg,15311038104414.jpg,15311038280826.jpg,,,,,,,
+979,Ame18fieldstation-639,Point,119.982293,-21.433528,"Foliated granitoid. Huge outcrop next to black range dike. Has a strong gneissic foliation. 
+
+0.05
+0.01
+0.04
+0.02",149,85,,,,,,foliation,mineral_alignm,,,,,,,AME18_259 a b,H n,15311061500782.jpg,,,,,,,,,
+96,Ame18fieldstation-53,Point,120.2355603,-21.30473223,,42,72,,,,,,,,,,,,,,AME18_026,H n. Also_ chops collected for geochemist.,,,,,,,,,,
+980,Ame18fieldstation-640,Point,119.985646,-21.421382,"Medium to coarse granitoid.
+
+2.36
+2.68
+1.27
+1.23",330,81,,,,,,foliation,mineral_alignm,,,,,,,AME18_260,H n,15311074667194.jpg,,,,,,,,,
+981,Ame18fieldstation-641,Point,120.000708,-21.409188,"Sheared porphyroclastic porphory it’s 2 to 4 cm kspar_ incipient SC fabric. Bookcase feldspar. 
+
+0.02
+0.07
+0.03
+0.05",301,68,,,,,,foliation,gneissic_folia,,,,,,,AME18_261 a b,H n,15311121940757.jpg,15311122176276.jpg,15311123315109.jpg,15311124234284.jpg,,,,,,
+985,Ame18fieldstation-642,Point,119.977228,-21.393821,"Huge phenocrysts of kspar_  mafic enclaves 
+
+0.04
+0.04
+0.02
+0.05",345,75,,,,,,foliation,mineral_alignm,,,,,,,AME18_262 a b,H n,15311165105097.jpg,15311165463129.jpg,,,,,,,,
+987,Ame18fieldstation-644,Point,119.90897,-21.366229,Same porphory granitoid. Very weak foliation. Some feldspars are highly zoned_ with a more plag composition in the rim (?),289,56,,,,,,foliation,mineral_alignm,,,,,,,AME18_264 a b,H n,15311223993191.jpg,15311224903989.jpg,15311224903989.jpg,,,,,,,
+990,Ame18fieldstation-645,Point,119.947513,-21.1675,"Banded gneiss
+
+0.03
+0.04
+0.08
+0.07",206,17,,,,,,foliation,gneissic_folia,,,,,,,AME18_265 a b,H n,15314429090790.jpg,15314429488996.jpg,,,,,,,,
+993,Ame18fieldstation-647,Point,119.950326,-21.154637,"Medium grained foliated granite. 
+
+0.03
+0.04
+0.00
+0.04",45,79,,,,,,foliation,mineral_alignm,,,,,,,AME18_267 a b,H n,15314457543736.jpg,,,,,,,,,
+994,Ame18fieldstation-648,Point,119.950308,-21.146458,"Medium grained foliated granitoid. 
+
+0.00
+0.03
+0.05
+0.01",10,61,,,,,,foliation,mineral_alignm,,,,,,,AME18_268 a b,H n,15314472144710.jpg,,,,,,,,,
+996,Ame18fieldstation-650,Point,120.00075,-21.161611,"Nearly equals grained granite_ medium to coarse. 
+
+0.03
+0.05
+0.03
+0.02",168,82,,,,,,foliation,mineral_alignm,,,,,,,AME18_269 a b,H n,15314610087801.jpg,,,,,,,,,
+997,Ame18fieldstation-651,Point,120.004382,-21.163163,"Very fresh outcrop of medium to coarse granitoid.
+0.05
+0.01
+0.04
+0.00",169,75,,,,,,foliation,mineral_alignm,,,,,,,AME18_270 a b,H n,15314636788786.jpg,,,,,,,,,
+999,Ame18fieldstation-652,Point,120.008056,-21.165974,"Medium grained granitoid
+
+0.01
+0.00
+0.05
+0.00
+
+Weak to no discernible foliation.",1,81,,,,,,foliation,mineral_alignm,,,,,,,AME18_271 a b,H n,15314659863001.jpg,,,,,,,,,
+1000,Ame18fieldstation-653,Point,120.013477,-21.166312,Medium to coarse granite.,339,85,,,,,,foliation,mineral_alignm,,,,,,,AME18_272 a b,H n,15314674391294.jpg,,,,,,,,,
+1001,Ame18fieldstation-654,Point,119.79887,-21.29428,0.5 m wide chert bed next to a basalt,291,81,295,24,24,,,bedding,,,,,,,,AME18_273,291 81,15315352439831.jpg,,,,,,,,,
+1002,Ame18fieldstation-655,Point,119.798328,-21.298183,2 m wide chert unit with en echelon tension gashes.,286,79,,,,,,bedding,,,,,,,,AME18_274,286 79,15315361807820.jpg,,,,,,,,,
+1004,Ame18fieldstation-656,Point,119.794611,-21.303679,3 meter wide outcrop of chert_ may be thicker. Very Stripey.,79,89,259,24,156,,,bedding,,,,,,,,AME18_275,079 89 overturned.,15315384526877.jpg,15315387350941.jpg,,,,,,,,
+1006,Ame18fieldstation-657,Point,119.785658,-21.300505,,302,82,118,28,152,,,bedding,,,,,,,,AME18_276 b,291 89,15315395648882.jpg,,,,,,,,,
+1007,Ame18fieldstation-657,Point,119.785658,-21.300505,,291,89,,,,,,bedding,,,,,,,,AME18_276 b,291 89,15315395648882.jpg,,,,,,,,,
+1008,Ame18fieldstation-658,Point,119.769037,-21.300286,2 m wide chert bed with occasiol magnetite grains!,114,78,148,69,73,,,bedding,,,,,,,,AME18_277,114 78 overturned.,,,,,,,,,,
+1009,Ame18fieldstation-659,Point,119.805606,-21.300846,Chert with porphyroclasts of something in quartz veins.,301,78,112,35,144,,,bedding,,,,,,,,AME18_278 a,301 78,15315444747471.jpg,15315444825425.jpg,,,,,,,,
+1010,Ame18fieldstation-659,Point,119.805606,-21.300846,Chert with porphyroclasts of something in quartz veins.,290,83,106,28,152,,,bedding,,,,,,,,AME18_278 a,301 78,15315444747471.jpg,15315444825425.jpg,,,,,,,,
+1011,Ame18fieldstation-660,Point,119.819282,-21.315048,Strongly lineated chert bed,293,80,95,60,118,,,bedding,,,,,,,,AME18_279,293 80,15315462830781.jpg,,,,,,,,,
+98,Ame18fieldstation-55,Point,120.1770245,-21.41805966,After searching around in what we think is the “trig we’ll” area_ we found a thin layer of schist with clear_ large garnets_ about the size of a pea. The lineation is hard to identify_ may be a steep rake or quite shallow_ hard to see in the bright sunlight.,64,35,176,33,108,,,,,,,,,,,AME18_028,Sd,15263659968968.jpg,,,,,,,,,
+1012,Ame18fieldstation-661,Point,119.83032,-21.319422,2 m wide thick chert bed with several sinistral faults_ with 6 or 7 m of horizontal outcrop.,308,82,,,,,,bedding,,,,,,,,AME18_280,306 82 overturned,15315474891713.jpg,,,,,,,,,
+1014,Ame18fieldstation-662,Point,120.103989,-21.362287,"Medium grained foliated granitoid. Mafic enclaves present. 
+
+2.26
+1.72
+1.08
+0.99",105,77,,,,,,foliation,mineral_alignm,,,,,,,AME18_281 a b,H n,15316143093950.jpg,15316146876443.jpg,,,,,,,,
+1016,Ame18fieldstation-663,Point,120.110908,-21.375289,Edium grained foliated granitoid.,321,78,,,,,,foliation,mineral_alignm,,,,,,,AME18_282 a b,H n,15316164611649.jpg,,,,,,,,,
+1017,Ame18fieldstation-664,Point,120.127052,-21.384838,"Coarse grained granite with large amphibole and magnetite. 
+
+4.55
+2.50
+2.11
+4.75",73,70,,,,,,foliation,mineral_alignm,,,,,,,AME18_283 a b,H n,15316179377128.jpg,,,,,,,,,
+1019,Ame18fieldstation-665,Point,120.145824,-21.39083,"Foliated granitic gneiss. Lots of amphibole and magnetite. 
+
+2.53
+2.67
+2.43
+2.80",49,72,,,,,,foliation,gneissic_folia,,,,,,,AME18_284 a b,H n,15316188499360.jpg,,,,,,,,,
+1020,Ame18fieldstation-666,Point,120.15939,-21.39136,"Two granitic gneisses. One medium grained_ very strongly foliated granitoid with wispy biotite (sample a). The other_ a slightly more weakly foliated granitoid without the wispy biotite. 
+
+0.42. B
+0.96  b
+1.45. A
+1.31. A",55,64,,,,,,foliation,gneissic_folia,,,,,,,AME18_285 a b,H n,15316215877316.jpg,15316216158801.jpg,,,,,,,,
+1022,Ame18fieldstation-667,Point,120.161231,-21.383601,"Granitic gneiss_  edium grained. 
+
+2.89
+3.07
+3.08
+3.27",35,71,,,,,,foliation,gneissic_folia,,,,,,,AME18_286 a b,H n,15316227879455.jpg,,,,,,,,,
+1023,Ame18fieldstation-668,Point,120.130746,-21.390871,"Medium grained granitoid with magnetite and hornblend phenocrysts. 
+
+1.41
+1.35
+1.06
+1.64",49,79,,,,,,foliation,mineral_alignm,,,,,,,AME18_287 a b,H n,15316249211061.jpg,15316249549970.jpg,15316249613721.jpg,15316259089470.jpg,,,,,,
+1027,Ame18fieldstation-669,Point,120.126179,-21.404199,"Fine to medium grained granitoid gneiss. Small outcrop in very poorly exposed area. 
+
+3.38
+1.77
+2.26
+2.40",80,37,,,,,,foliation,gneissic_folia,,,,,,,AME18_288 a b,H n,15316275754004.jpg,,,,,,,,,
+1029,Ame18fieldstation-671,Point,120.224938,-21.365926,,40,70,182,59,114,,,bedding,,,,,,,,AME18_289,040 70,15317086428376.jpg,,,,,,,,,
+99,Ame18fieldstation-56,Point,120.1772112,-21.42080453,Banded chert with layers of sheer silicates.,32,61,195,28,147,,,,,,,,,,,AME18_029,032 61 se,15263677502766.jpg,15263677136313.jpg,15263676996846.jpg,15263676863033.jpg,,,,,,
+1030,Ame18fieldstation-672,Point,120.224727,-21.365449,Cherty banded iron formation (could not use brunton),38,56,172,47,118,,,bedding,,,,,,,,AME18_290,H n,15317092059456.jpg,,,,,,,,,
+1037,Ame18fieldstation-678,Point,120.22659,-21.365046,An array of felsic veins about 20 m wide. Dikes range from sub meter to 3 m_ and mostly margins are covered with rubble.,78,72,,,,,,fracture,,,,,,,,AME18_291 geochemistry,,15317155548118.jpg,15317159988244.jpg,,,,,,,,
+1039,Ame18fieldstation-679,Point,120.226711,-21.364656,Several meter thick  chert bed,68,42,197,35,121,,,bedding,,,,,,,,AME18_292,068 42,,,,,,,,,,
+1043,Ame18fieldstation-682,Point,120.224408,-21.36637,Small aplite dikes.,55,83,,,,,,contact,,,,,,,,AME18_293,058 84,15317196510250.jpg,15317196705738.jpg,,,,,,,,
+1047,Ame18fieldstation-685,Point,120.230928,-21.323966,"Poor outcrop of granite. Not sure that b is in place. More sure about a. 
+
+0.53
+0.33
+0.17
+0.44",52,72,,,,,,foliation,gneissic_folia,,,,,,,AME18_295 a b,,15317268584115.jpg,,,,,,,,,
+1050,Ame18fieldstation-687,Point,120.011604,-21.46265,"Porphory granite_ very large feldspars and plag.
+
+0.11
+0.13
+0.09
+0.03",230,40,,,,,,foliation,mineral_alignm,,,,,,,AME18_297 a b,H n_ orientation may be slightly off. Had to reorient bc broke.,15317924917589.jpg,,,,,,,,,
+1051,Ame18fieldstation-688,Point,120.001766,-21.471238,"Large phenocrysts again. 
+
+0.12
+0.11
+0.04
+0.11",138,66,,,,,,foliation,mineral_alignm,,,,,,,AME18_298 a b,H n,15317964937143.jpg,15317965077954.jpg,,,,,,,,
+1053,Ame18fieldstation-689,Point,119.989532,-21.482212,"Small outcrops of porphyritic granitoid. 
+
+0.07
+0.07
+0.06
+0.08",163,79,,,,,,foliation,mineral_alignm,,,,,,,AME18_299 a b,H n,15317974954446.jpg,,,,,,,,,
+103,Ame18fieldstation-57,Point,120.176281,-21.41996734,,78,66,201,62,105,,,,,,,,,,,AME18_030,078 66,,,,,,,,,,
+1054,Ame18fieldstation-690,Point,120.01542,-21.39882,Granitic rock (dike?) with clots of biotite.,312,87,,,,,,foliation,mineral_alignm,,,,,,,AME18_300,312 87,15318078675248.jpg,,,,,,,,,
+1065,Ame18fieldstation-696,Point,120.012732,-21.402604,"Large scale kink fold. Has small scale features as well. Large scale 
+ Shows dome up sos. Small scale shows reverse sense. Sample taken doesn’t display this_ but instead a different kink fildin_ may have fold overprints.",110,81,287,16,164,,,foliation,schistosity,,,,,,,AME18_302,H n,15318125971615.jpg,15318126419149.jpg,,,,,,,,
+104,Ame18fieldstation-58,Point,120.1765999,-21.4186521,Garnet bearing schist,73,82,,,,,,,,,,,,,,AME18_031,"We 073 82
+
+Ross collected chips.",15263702428187.jpg,,,,,,,,,
+105,Ame18fieldstation-59,Point,120.1767011,-21.41848492,Thinly lamited garnet bearing schist. Rock looks crappy_ but garnets look ok. Collected chips for geochemistry.,62,71,,,,,,,,,,,,,,AME18_031b,,15263704174101.jpg,,,,,,,,,
+106,Ame18fieldstation-60,Point,119.7294031,-20.87694981,Very southern margins of the Meccan granitic complex. Taking a sample because I think there is reverse shear sense in the granitic fabric.,284,30,,,84,,,,,,,,,,,AME18_032,284 30 May show reverse shear sense.,15264402593551.jpg,,,,,,,,,
+107,Ame18fieldstation-61,Point,119.7299037,-20.87711582,Two samples of trondjemite_ one of them garnet bearing.,294,48,,,76,,,,,,,,,,,AME18_033,,15264407110395.jpg,,,,,,,,,
+109,Ame18fieldstation-62,Point,119.7241627,-20.89645911,Banded Chert in the dolee greenstone belt.,284,50,,,,,,,,,,,,,,AME18_034,,,,,,,,,,,
+115,Ame18fieldstation-67,Point,119.894834,-21.33023695,Garnet bearing felsic schist_ close to francois et al locality....?,129,57,224,57,93,,,,,,,,,,,AME18_035,129 57,15266314905438.jpg,,,,,,,,,
+117,Ame18fieldstation-70,Point,119.8943382,-21.33108257,Boudined chert bed in felsic quartzofeldspathuc schist. Strongly lineated.,296,84,71,82,96,,,,,,,,,,,AME18_036,296 84,15266920674056.jpg,,,,,,,,,
+118,Ame18fieldstation-71,Point,119.8888641,-21.32398395,Schist with porphyroclasts of quartz or maybe cordillerite ?,120,70,,,,,,,,,,,,,,AME18_037,132 75,15266990287603.jpg,15266988140286.jpg,,,,,,,,
+122,Ame18fieldstation-73,Point,119.8998915,-21.17130188,Fig tree gneiss. Banded gneiss with amphibole and plague. Pegmatitic veins present. Fabric is swirly and hard to pick out.Collected ams and geochemistry samples. AME18_040a was collected 20 meters north of the structural sample AME18_040. Geochemistry sample 040 b was sampled adjacent to the structural sample.,314,24,,,,,,vein,,,,,,,,AME18_040,H n,15267881412727.jpg,15267879853265.jpg,,,,,,,,
+123,Ame18fieldstation-73,Point,119.8998915,-21.17130188,Fig tree gneiss. Banded gneiss with amphibole and plague. Pegmatitic veins present. Fabric is swirly and hard to pick out.Collected ams and geochemistry samples. AME18_040a was collected 20 meters north of the structural sample AME18_040. Geochemistry sample 040 b was sampled adjacent to the structural sample.,345,75,,,,,,vein,,,,,,,,AME18_040,H n,15267881412727.jpg,15267879853265.jpg,,,,,,,,
+124,Ame18fieldstation-73,Point,119.8998915,-21.17130188,Fig tree gneiss. Banded gneiss with amphibole and plague. Pegmatitic veins present. Fabric is swirly and hard to pick out.Collected ams and geochemistry samples. AME18_040a was collected 20 meters north of the structural sample AME18_040. Geochemistry sample 040 b was sampled adjacent to the structural sample.,34,74,,,,,,foliation,comp_banding,,,,,,,AME18_040,H n,15267881412727.jpg,15267879853265.jpg,,,,,,,,
+125,Ame18fieldstation-74,Point,120.0823239,-21.18652681,Banded gneiss pavement with pegmatites. But had petroglyphs_ so sampled some nearby boulders_ one of which had a dymite stick mark to suggest that gswa sampled here. Very fresh outcrop_ geochemistry sample. Boulders are more homogeneous than pavement.,314,37,,,,,,foliation,gneissic_folia,,,,,,,AME18_041,,15267954060273.jpg,15267950874267.jpg,15267950494336.jpg,15267949840441.jpg,15267949418575.jpg,,,,,
+131,Ame18fieldstation-76,Point,120.3240454,-21.21775293,Medium grained granitic rock on western boundary of the Mt Edgar dome.,270,58,,,,,,foliation,mineral_alignm,,,,,,,AME18_043a,,15268015912809.jpg,,,,,,,,,
+138,Ame18fieldstation-81,Point,119.9673943,-21.37029638,3 cm thick quartz vein boudined within fine grained quartzofeldspathic schist with amphibole needles. Sampled quartz vein. Vein parallel to foliation.,298,88,305,73,73,,,vein,,,,,,,,AME18_045,298 88,15271180037679.jpg,,,,,,,,,
+149,Ame18fieldstation-90,Point,119.9671732,-21.37069717,Felsic pelitic schist with quartz or felsic porphyroclasts that show reverse shear sense.,128,74,,,105,,,,,,,,,,,AME18_046,128 74 measured on underside.,15271201005460.jpg,,,,,,,,,
+166,Ame18fieldstation-98,Point,119.9653146,-21.37272833,Sampled deformed chert bed.,300,82,331,75,77,,,bedding,,,,,,,,AME18_048,300 82,15271291326836.jpg,15271286325570.jpg,15271281580720.jpg,,,,,,,
+180,Ame18fieldstation-106,Point,119.9642058,-21.37423922,Highly veined and crenulated metasedimentary bed. Crenulations define lineation.,162,71,,,,,,,,,,,,,,AME18_049,,15271322017500.jpg,15271309180494.jpg,,,,,,,,
+182,Ame18fieldstation-107,Point,119.9641752,-21.37424185,10 meter scale z fold seen in chert in horizontal outcrop. Sampling northern limb.,297,84,,,75,,,,,,,,,,,AME18_051,Chert,15271329788502.jpg,,,,,,,,,
+184,Ame18fieldstation-109,Point,119.9677934,-21.36822918,Three thin units close together_ all dipping away from the dome. Farthest south_ a .3 m chert bed_ strongly lineated. Directly south_ a 1 m zone of porphyroclasts bearing felsic schist. Along strike to the West by 3 meters_ the schist is less micaceous_ but has small red dots that may be garnet.,119,52,,,120,,,,,,,,,,,AME18_052a,119 52,15271389578386.jpg,,,,,,,,,
+185,Ame18fieldstation-109,Point,119.9677934,-21.36822918,Three thin units close together_ all dipping away from the dome. Farthest south_ a .3 m chert bed_ strongly lineated. Directly south_ a 1 m zone of porphyroclasts bearing felsic schist. Along strike to the West by 3 meters_ the schist is less micaceous_ but has small red dots that may be garnet.,144,72,,,102,,,,,,,,,,,AME18_052a,119 52,15271389578386.jpg,,,,,,,,,
+188,Ame18fieldstation-110,Point,119.9679449,-21.36811357,Huge 1 cm or larger garnets with quartz tails in a quartzofeldspathic schist. Beautiful shear sense_ though hard to determine lineation.,129,86,,,112,,,,,,,,,,,AME18_053a,,15271457436345.jpg,,,,,,,,,
+189,Ame18fieldstation-110,Point,119.9679449,-21.36811357,Huge 1 cm or larger garnets with quartz tails in a quartzofeldspathic schist. Beautiful shear sense_ though hard to determine lineation.,128,82,,,111,,,,,,,,,,,AME18_053a,,15271457436345.jpg,,,,,,,,,
+190,Ame18fieldstation-110,Point,119.9679449,-21.36811357,Huge 1 cm or larger garnets with quartz tails in a quartzofeldspathic schist. Beautiful shear sense_ though hard to determine lineation.,135,84,,,105,,,,,,,,,,,AME18_053a,,15271457436345.jpg,,,,,,,,,
+191,Ame18fieldstation-110,Point,119.9679449,-21.36811357,Huge 1 cm or larger garnets with quartz tails in a quartzofeldspathic schist. Beautiful shear sense_ though hard to determine lineation.,139,83,,,,,,,,,,,,,,AME18_053a,,15271457436345.jpg,,,,,,,,,
+207,Ame18fieldstation-120,Point,119.9443901,-21.35216903,Crenulated pelitic unit has a strong lineation approx down dip_ with a crenulation approximately parallel to strike. Crenulations are asymmetric. Crenulations are part of a large scale 3 m kink. Lineation has been kinked_ silineation predates kink folds and thrust event.,111,60,,,111,,,,,,,,,,,AME18_055,110 57,15272099946286.jpg,15272093640845.jpg,15272088151182.jpg,15272079683679.jpg,,,,,,
+213,Ame18fieldstation-122,Point,119.9441216,-21.35354625,Another garnet fined_ this time as large components of the rock by percentage. Garnets show domintly normal shear sense_ and have beautiful asymmetry. Stratographically below metabasalt.,129,83,,,,,,,,,,,,,,AME18_057a,131 82,15272161351798.jpg,,,,,,,,,
+214,Ame18fieldstation-122,Point,119.9441216,-21.35354625,Another garnet fined_ this time as large components of the rock by percentage. Garnets show domintly normal shear sense_ and have beautiful asymmetry. Stratographically below metabasalt.,129,80,,,,,,foliation,schistosity,,,,,,,AME18_057a,131 82,15272161351798.jpg,,,,,,,,,
+215,Ame18fieldstation-122,Point,119.9441216,-21.35354625,Another garnet fined_ this time as large components of the rock by percentage. Garnets show domintly normal shear sense_ and have beautiful asymmetry. Stratographically below metabasalt.,131,82,242,81,93,,,foliation,schistosity,,,,,,,AME18_057a,131 82,15272161351798.jpg,,,,,,,,,
+231,Ame18fieldstation-130,Point,119.9450763,-21.35084208,Excellent exposure of garnet porphyroclasts_ showing strong normal sense of shear.,294,85,,,70,,,,,,,,,,,AME18_058a,294 86,15272252782897.jpg,,,,,,,,,
+233,Ame18fieldstation-131,Point,119.9461556,-21.34865365,A possible garnet locality.,310,85,,,102,,,,,,,,,,,AME18_059,310 85 overturned.,,,,,,,,,,
+253,Ame18fieldstation-139,Point,119.917066,-21.33333542,Very strongly foliated Augean paragneiss,109,81,,,105,,,,,,,,,,,AME18_066,109 81,15273140697935.jpg,,,,,,,,,
+254,Ame18fieldstation-139,Point,119.917066,-21.33333542,Very strongly foliated Augean paragneiss,109,62,,,105,,,,,,,,,,,AME18_066,109 81,15273140697935.jpg,,,,,,,,,
+255,Ame18fieldstation-140,Point,119.9181953,-21.33178685,Zebra gneiss_ with biotite zones and feldspar porphyroclasts,118,67,,,104,,,,,,,,,,,AME18_067,118 67,15273148625665.jpg,,,,,,,,,
+28,Ame18fieldstation-10,Point,119.9366568,-21.33832833,,103,74,,,,,,foliation,gneissic_folia,,,,,,,AME18_007,122 64 sw,15259089859541.jpg,15259088811365.jpg,,,,,,,,
+17,1.52584E+13,Point,119.9397747,-21.35591743,Marble bar chert probably_ banded Chert that varies in orientation along strike.,130,84,,,95,,,bedding,,,,,,,,Ame18_004,130 83 s,,,,,,,,,,
+4,1.52582E+13,Point,119.9440558,-21.3473268,,288,89,,,90,,,foliation,mineral_alignm,,,,,,,,,,,,,,,,,,
+5,1.52582E+13,Point,119.9440518,-21.34726674,Very fine grained amphibolite_ possibly garnet bearing_ mica rich (biotite?)_ elongate needle like minerals_ black in color (maybe siliminite),114,74,,,94,,,foliation,mineral_alignm,,,,,,,,,,,,,,,,,,
+6,1.52583E+13,Point,119.944095,-21.3473175,,325,80,,,,,,foliation,c_plane,,,,,,,,,15258255603539.jpg,,,,,,,,,
+7,1.52583E+13,Point,119.944095,-21.3473175,,298,76,,,,,,foliation,s_plane,,,,,,,,,15258255603539.jpg,,,,,,,,,
+9,1.52583E+13,Point,119.9437894,-21.34722391,Finely spaced cleavage s surfaces_ possibly garnet bearing ( weather out pits at the surface.  C surfaces spaced at about 30 cm. Sampled for garnets.,70,85,,,,,,foliation,c_plane,,,,,,,,,15258268757244.jpg,,,,,,,,,
+13,1.52583E+13,Point,119.9446483,-21.3490251,Felsic layer is commonly boudined in metabasalt. Interbedded amphibolite and some sort of felsic (volcanic ? ) rock. Measurement is of felsic unit.,115,84,,,105,,,foliation,cleavage,,,,,,,,,15258323559647.jpg,,,,,,,,,
+15,1.52583E+13,Point,119.9446547,-21.34902258,Me tased amphibolite,110,77,,,110,,,foliation,mineral_alignm,,,,,,,,,,,,,,,,,,
+16,1.52583E+13,Point,119.9446547,-21.34902258,Me tased amphibolite,93,70,,,100,,,,,,,,,,,,,,,,,,,,,,
+18,1.52584E+13,Point,119.9390689,-21.35535896,The ridge is full of examples of right lateral s-c fabrics_ with c surfaces parallel to compositiol contacts_ maybe bedding. The s surfaces are oblique to these contacts.,311,90,,,,,,foliation,c_plane,,,,,,,,,15258405448589.jpg,,,,,,,,,
+19,1.52584E+13,Point,119.9390689,-21.35535896,The ridge is full of examples of right lateral s-c fabrics_ with c surfaces parallel to compositiol contacts_ maybe bedding. The s surfaces are oblique to these contacts.,277,84,,,,,,foliation,s_plane,,,,,,,,,15258405448589.jpg,,,,,,,,,
+27,1.52584E+13,Point,119.9381698,-21.3536248,,332,89,,,94,,,foliation,cleavage,,,,,,,,,,,,,,,,,,
+29,Ame18fieldstation-10,Point,119.9366568,-21.33832833,,122,64,,,124,,,foliation,gneissic_folia,,,,,,,,,15259089859541.jpg,15259088811365.jpg,,,,,,,,
+30,Ame18fieldstation-10,Point,119.9366568,-21.33832833,,122,64,,,94,,,,,,,,,,,,,15259089859541.jpg,15259088811365.jpg,,,,,,,,
+31,Ame18fieldstation-11,Point,119.9366829,-21.3383832,Outcrop right on the creek_ heterogeneous mixture of foliated granodiorite_ medium grade gneiss_ and migmitized gneiss and tightly folded amphibolite showing dextrose motion.,119,67,,,95,,,foliation,gneissic_folia,,,,,,,,,,,,,,,,,,
+55,Ame18fieldstation-29,Point,119.9252641,-21.3481624,,110,84,182,84,88,,,,,,,,,,,,,15259344619265.jpg,15259344378822.jpg,15259343881105.jpg,,,,,,,
+61,Ame18fieldstation-31,Point,119.925586,-21.32578485,Amphibolite banded gneiss_ migmatite in areas_ granitic bands present.,144,49,,,95,,,foliation,gneissic_folia,,,,,,,,,,,,,,,,,,
+62,Ame18fieldstation-31,Point,119.925586,-21.32578485,Amphibolite banded gneiss_ migmatite in areas_ granitic bands present.,144,49,,,96,,,,,,,,,,,,,,,,,,,,,,
+67,Ame18fieldstation-34,Point,119.9265357,-21.30531093,,100,63,,,,,,,,,,,,,,,,15260097241288.jpg,,,,,,,,,
+68,Ame18fieldstation-34,Point,119.9265357,-21.30531093,,97,75,,,,,,,,,,,,,,,,15260097241288.jpg,,,,,,,,,
+76,Ame18fieldstation-38,Point,120.0137568,-21.40154664,Crenulated schust with asymmetric kink folds. Crenulatioms are subhorizontal_ while stretching lineation is nearly downdip. Interbedded chert layers are also involved in the folding. Kink folds show sinistral motion.,118,60,267,42,130,,,,,fold,,345,78,75,70,,,15261822437857.jpg,,,,,,,,,
+94,Ame18fieldstation-51,Point,120.127366,-21.43732065,Duffer_ felsic schist with boudined quartz veins.,76,84,219,80,98,,,,,,,,,,,,,15262793726521.jpg,,,,,,,,,
+110,Ame18fieldstation-62,Point,119.7241627,-20.89645911,Banded Chert in the dolee greenstone belt.,294,54,,,110,,,,,,,,,,,,,,,,,,,,,,
+119,Ame18fieldstation-71,Point,119.8888641,-21.32398395,Schist with porphyroclasts of quartz or maybe cordillerite ?,132,75,200,74,84,,,,,,,,,,,,,15266990287603.jpg,15266988140286.jpg,,,,,,,,
+126,Ame18fieldstation-74,Point,120.0823239,-21.18652681,Banded gneiss pavement with pegmatites. But had petroglyphs_ so sampled some nearby boulders_ one of which had a dymite stick mark to suggest that gswa sampled here. Very fresh outcrop_ geochemistry sample. Boulders are more homogeneous than pavement.,303,62,,,,,,vein,,,,,,,,,,15267954060273.jpg,15267950874267.jpg,15267950494336.jpg,15267949840441.jpg,15267949418575.jpg,,,,,
+133,Ame18fieldstation-77,Point,120.3458553,-21.2188383,,80,52,213,43,120,,,,,,,,,,,,,,,,,,,,,,
+136,Ame18fieldstation-80,Point,119.967457,-21.3700939,Quartzofeldspathic schist_ finely lamited. Quartz veins parallel to foliation.,126,76,186,74,82,,,foliation,schistosity,,,,,,,,,15271175064986.jpg,15271173171072.jpg,,,,,,,,
+151,Ame18fieldstation-91,Point,119.9670386,-21.37102013,Highly calcified metabasalt_ sinistral kink folds and quartz vein folded too.,109,68,,,,,,foliation,schistosity,fold,,156,58,162,70,,,15271210256025.jpg,15271207589622.jpg,,,,,,,,
+153,Ame18fieldstation-92,Point,119.9669153,-21.37118133,Felsic schist porphyroclasts,125,74,278,58,118,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+154,Ame18fieldstation-93,Point,119.9661012,-21.37168917,More mafic schist with boudined quartz parallel to fabric.,122,64,,,,,,foliation,,,,,,,,,,15271224740491.jpg,,,,,,,,,
+155,Ame18fieldstation-94,Point,119.9660019,-21.37168193,,132,80,306,29,150,,,foliation,schistosity,fold,,292,30,121,65,,,15271246603842.jpg,15271238751190.jpg,15271234124848.jpg,15271232179853.jpg,15271230143467.jpg,15271229051409.jpg,,,,
+173,Ame18fieldstation-103,Point,119.965218,-21.37333743,Boudined chert,134,34,,,120,,,bedding,,,,,,,,,,15271295759307.jpg,15271295553411.jpg,,,,,,,,
+208,Ame18fieldstation-120,Point,119.9443901,-21.35216903,Crenulated pelitic unit has a strong lineation approx down dip_ with a crenulation approximately parallel to strike. Crenulations are asymmetric. Crenulations are part of a large scale 3 m kink. Lineation has been kinked_ silineation predates kink folds and thrust event.,110,57,,,113,,,,,,,,,,,,,15272099946286.jpg,15272093640845.jpg,15272088151182.jpg,15272079683679.jpg,,,,,,
+217,Ame18fieldstation-124,Point,119.9440215,-21.35369585,Reverse shear on kink.,329,57,,,,,,foliation,crenulation_cl,,,,,,,,,15272170138470.jpg,15272169639996.jpg,15272166973779.jpg,15272166393549.jpg,15272166001394.jpg,15272165862311.jpg,,,,
+218,Ame18fieldstation-124,Point,119.9440215,-21.35369585,Reverse shear on kink.,127,65,261,57,112,,,foliation,schistosity,,,,,,,,,15272170138470.jpg,15272169639996.jpg,15272166973779.jpg,15272166393549.jpg,15272166001394.jpg,15272165862311.jpg,,,,
+219,Ame18fieldstation-124,Point,119.9440215,-21.35369585,Reverse shear on kink.,129,74,280,60,116,,,foliation,schistosity,,,,,,,,,15272170138470.jpg,15272169639996.jpg,15272166973779.jpg,15272166393549.jpg,15272166001394.jpg,15272165862311.jpg,,,,
+220,Ame18fieldstation-124,Point,119.9440215,-21.35369585,Reverse shear on kink.,129,74,219,74,90,,,,,,,,,,,,,15272170138470.jpg,15272169639996.jpg,15272166973779.jpg,15272166393549.jpg,15272166001394.jpg,15272165862311.jpg,,,,
+223,Ame18fieldstation-125,Point,119.9433299,-21.35386203,Slight sc fabric and folded vein show normal sense of shear.,120,80,241,78,96,,,foliation,,,,,,,,,,15272175284718.jpg,15272174038691.jpg,15272173598587.jpg,,,,,,,
+230,Ame18fieldstation-129,Point,119.9450763,-21.35084208,Granitic dike,291,90,,,72,,,,,,,,,,,,,15272233151282.jpg,,,,,,,,,
+259,Ame18fieldstation-143,Point,119.8900159,-21.3231963,Quartzofeldspathic schist with kink folds.,280,86,,,75,,,,,,,,,,,,,15273770730369.jpg,,,,,,,,,
+260,Ame18fieldstation-144,Point,119.8903352,-21.32305255,Quartzofeldspathic schist,120,70,,,100,,,,,,,,,,,,,,,,,,,,,,
+262,Ame18fieldstation-146,Point,119.8939799,-21.31875198,Metabasalt,125,88,,,90,,,,,,,,,,,,,15273790496346.jpg,,,,,,,,,
+278,Ame18fieldstation-157,Point,119.8879397,-21.32675462,Large outcrop of quartzofeldspathic schist with nodules of quartz_ weathered hollow. Maybe used to be garnet? Weathered badly_ not good to sample.,305,85,,,90,,,,,,,,,,,,,15274009774233.jpg,,,,,,,,,
+304,Ame18fieldstation-169,Point,119.9919238,-21.39433867,Same spot as yesterday. Finely lamited beds_ some of which are highly altered_ are tightly folded in asymmetric fashion. Axial planes seem roughly parallel to the overall stratigraphy of the area.,309,70,,,,,,foliation,crenulation_cl,fold,s_fold,76,26,,,,,15277262870920.jpg,15277261783046.jpg,15277255434612.jpg,,,,,,,
+305,Ame18fieldstation-169,Point,119.9919238,-21.39433867,Same spot as yesterday. Finely lamited beds_ some of which are highly altered_ are tightly folded in asymmetric fashion. Axial planes seem roughly parallel to the overall stratigraphy of the area.,85,75,,,,,,,,fold,,89,24,60,51,,,15277262870920.jpg,15277261783046.jpg,15277255434612.jpg,,,,,,,
+310,Ame18fieldstation-172,Point,119.9921227,-21.39430745,M folds at the hinge of a meter scale fold. Antiform.,179,54,,,,,,foliation,cleavage,fold,,89,45,112,62,,,15277284525559.jpg,15277282953314.jpg,15277281204361.jpg,,,,,,,
+333,Ame18fieldstation-186,Point,119.8396828,-21.33839458,Foliated epidote chlorite schist.,239,69,,,103,,,foliation,schistosity,,,,,,,,,15278158270754.jpg,,,,,,,,,
+341,Ame18fieldstation-193,Point,119.8404033,-21.32279116,Strange schist with large rusted out porphyroclasts,276,76,,,,,,foliation,schistosity,,,,,,,,,15278214820070.jpg,,,,,,,,,
+375,Ame18fieldstation-214,Point,119.9610885,-21.3177779,"Large outcrop of banded gneiss. 
+
+1.25 1.04 2.71 1.13",289,84,,,,,,foliation,mineral_alignm,,,,,,,,,15280134452721.jpg,,,,,,,,,
+383,Ame18fieldstation-219,Point,119.9993529,-21.31863759,"Foliated granite with aplite dikes.
+
+.62
+.69
+2.21
+0.59",293,55,,,,,,foliation,mineral_alignm,,,,,,,,,15280926301429.jpg,,,,,,,,,
+398,Ame18fieldstation-229,Point,120.1220142,-21.19281492,"Strongly foliated granite. Pegmatite present subparallel to foliation. 
+
+0.04
+2.64
+0.37
+2.58",109,74,,,,,,,,,,,,,,,,15284312317624.jpg,,,,,,,,,
+407,Ame18fieldstation-233,Point,120.0453157,-21.18356901,"Heterogeneous gneiss. A medium to coarse foliated granite_ finely lamited fine grained gneiss.
+
+0.02
+0.03
+0.02
+0.08",293,30,,,,,,foliation,gneissic_folia,,,,,,,,,15284434291884.jpg,15284434214593.jpg,15284434142286.jpg,,,,,,,
+410,Ame18fieldstation-234,Point,120.0337188,-21.18337769,"Banded and folded gneiss_ folds are horizontal hinges and verge to the northwest.
+
+0.05
+0.03
+0.06
+0.04",24,27,,,,,,,,,,,,,,,,15284457960027.jpg,15284451494705.jpg,15284450966262.jpg,15284450626187.jpg,15284449882877.jpg,,,,,
+435,Ame18fieldstation-247,Point,120.1321373,-20.9757485,"Coppin’s gap granodiorite. Fine grained to medium grained gneiss. 
+
+0.00
+0.14
+0.23
+0.24",2,72,,,,,,,,,,,,,,,,15287670011581.jpg,,,,,,,,,
+445,Ame18fieldstation-252,Point,120.052909,-21.01743363,,176,64,,,,,,vein,,,,,,,,,,15287781876592.jpg,,,,,,,,,
+446,Ame18fieldstation-252,Point,120.052909,-21.01743363,,338,80,,,,,,,,,,,,,,,,15287781876592.jpg,,,,,,,,,
+448,Ame18fieldstation-253,Point,120.0468968,-21.04111856,A large 10 m across pavement. Slightly banded gneiss.,186,62,,,,,,,,,,,,,,,,15287835301234.jpg,,,,,,,,,
+456,Ame18fieldstation-258,Point,120.1399487,-21.18463422,"Medium to coarse grained granitoid. Occasiol large feldspar phenocrysts.
+
+1.01
+1.11
+0.93
+0.79",164,78,,,,,,,,,,,,,,,,15288684799287.jpg,15288679657952.jpg,,,,,,,,
+467,Ame18fieldstation-264,Point,120.1216,-21.13730434,100 x 10 m boulder pavement. Banded gneiss with coarse grain size. Some migmatization and or pegmatites. More mafic_ but still granitic/dioritic dikes cut roughly perpendicular to the gneissic fabric.,266,90,,,,,,intrusive,,,,,,,,,,15289367566627.jpg,15289362144948.jpg,15289362025172.jpg,15289361948640.jpg,,,,,,
+471,Ame18fieldstation-265,Point,120.1194197,-21.13296213,Boulder field. Right next to GSWA geochron blast site. Medium grained banded gneiss. Across the outcrops_ the foliation weakened dramatically. By Rosses sample_ 50 m to the north_ there is barely a fabric at all,294,84,,,,,,foliation,gneissic_folia,,,,,,,,,15289390348560.jpg,15289389762041.jpg,,,,,,,,
+474,Ame18fieldstation-267,Point,120.1006738,-21.12707133,Medium grained foliated granite.,355,83,,,,,,foliation,mineral_alignm,,,,,,,,,15289454817435.jpg,,,,,,,,,
+476,Ame18fieldstation-268,Point,120.0875586,-21.12545509,Granite pavement next to the quartz range. Medium grained weakly foliated granite. Foliation is hard to pick out may be multiple.,5,73,,,,,,,,,,,,,,,,15289469558728.jpg,,,,,,,,,
+481,Ame18fieldstation-272,Point,119.9920134,-21.26642379,"Fine grained granitoid with euhedral  amphiboles. In contact with a more strongly deformed medium to coarse grained granitoid. See pic. 
+
+3.24
+3.76
+4.77
+3.11",231,68,,,,,,foliation,mineral_alignm,,,,,,,,,15291203217028.jpg,15291202251964.jpg,15291202178153.jpg,15291202067936.jpg,,,,,,
+489,Ame18fieldstation-276,Point,120.0112563,-21.2230263,Coarse grained granitic gneiss. Strongly foliated. Cut by a foliation parallel dike_ and all are displaced along a rrow shear zone.,325,90,,,,,,shear_zone,,,,,,,,,,15291319695639.jpg,15291314240108.jpg,15291309563919.jpg,,,,,,,
+490,Ame18fieldstation-276,Point,120.0112563,-21.2230263,Coarse grained granitic gneiss. Strongly foliated. Cut by a foliation parallel dike_ and all are displaced along a rrow shear zone.,26,68,,,,,,intrusive,,,,,,,,,,15291319695639.jpg,15291314240108.jpg,15291309563919.jpg,,,,,,,
+492,Ame18fieldstation-277,Point,120.0203671,-21.21040812,Wall of foliated granite right next to a fortescue aged dike. Sampled as far from the dike as possible_ about 15 m. Two superimposed foliation. One_ defined by mafic bands_ is shallowly dipping. The other_ defined by felsic bands_ is vertical.,200,85,,,,,,foliation,gneissic_folia,,,,,,,,,15291336622813.jpg,15291332092040.jpg,,,,,,,,
+494,Ame18fieldstation-278,Point,120.0220582,-21.19694417,"Swirly gneiss. 
+
+
+0.02
+0.03
+0.02
+0.02",224,73,,,,,,foliation,gneissic_folia,,,,,,,,,15291360177287.jpg,,,,,,,,,
+502,Ame18fieldstation-284,Point,119.8452015,-21.24435855,"Foliated granitoid. 
+
+1.41
+1.59
+1.44
+1.00",293,80,,,,,,foliation,mineral_alignm,,,,,,,,,15292181757564.jpg,,,,,,,,,
+514,Ame18fieldstation-292,Point,120.1808867,-21.0844536,"Pavement with a contact between massive pegmatite intrusions and banded gneiss
+
+0.04
+0.01
+0.07
+0.05",137,85,,,,,,foliation,mineral_alignm,,,,,,,,,15293017139404.jpg,15293017072700.jpg,,,,,,,,
+530,Ame18fieldstation-304,Point,120.2255987,-21.25630268,"Amphibole granite with thick aplite cutting the outcrop. Coarse grained amphiboles. 
+
+1.10
+0.29
+0.18
+0.08",65,25,,,,,,intrusive,,,,,,,,,,15294772765282.jpg,15294771480009.jpg,15294771000710.jpg,,,,,,,
+532,Ame18fieldstation-306,Point,119.944086,-21.35132,We camped here. A 20 m cliff outcrop of Interbedded metabasalt and felsic metavolcanic. Fabric of the two are aligned.,99,88,275,66,114,,,foliation,schistosity,,,,,,,,,15297128521388.jpg,,,,,,,,,
+533,Ame18fieldstation-307,Point,119.944714,-21.350884,Again_ interbedded metamorphic rocks. Here_ the chlorite schist is 1 m thick_ rather than small 10 cm beds. The quartzofeldspathic schist is lamited at 1 cm scale.,119,71,263,60,114,,,foliation,schistosity,,,,,,,,,15297148361399.jpg,,,,,,,,,
+536,Ame18fieldstation-308,Point,119.944957,-21.350845,Large pavement outcrop of mostly quartzofeldspathic schist_ with some 5 to 10 cm chlorite schist interbedded. In one area of the outcrop_ large (0.5 cm) porphyroclasts of magnetite_ amphibole_ and or garnet are present.,298,84,314,69,70,,,foliation,schistosity,,,,,,,,,15297151717221.jpg,15297151777167.jpg,15297176861071.jpg,,,,,,,
+537,Ame18fieldstation-308,Point,119.944957,-21.350845,Large pavement outcrop of mostly quartzofeldspathic schist_ with some 5 to 10 cm chlorite schist interbedded. In one area of the outcrop_ large (0.5 cm) porphyroclasts of magnetite_ amphibole_ and or garnet are present.,299,87,,,69,,,foliation,schistosity,,,,,,,,,15297151717221.jpg,15297151777167.jpg,15297176861071.jpg,,,,,,,
+538,Ame18fieldstation-309,Point,119.94556,-21.350981,,109,82,273,63,116,,,foliation,schistosity,,,,,,,,,15297222027493.jpg,,,,,,,,,
+541,Ame18fieldstation-311,Point,119.945723,-21.350641,Mafic amphibolite. More massively lamited.,92,79,248,65,113,,,foliation,mineral_alignm,,,,,,,,,15297234625838.jpg,,,,,,,,,
+543,Ame18fieldstation-313,Point,119.945829,-21.350513,,118,84,275,75,104,,,foliation,gneissic_folia,,,,,,,,,15297242066615.jpg,,,,,,,,,
+545,Ame18fieldstation-315,Point,119.94589,-21.350348,Crenulated chlorite schist and quartzofeldspathic schist. Sampled chlorite schist.,126,77,248,75,98,,,foliation,phyllitic_cleavage,,,,,,,,,15297251755120.jpg,,,,,,,,,
+547,Ame18fieldstation-317,Point,119.946215,-21.349885,,101,78,250,68,109,,,foliation,schistosity,,,,,,,,,15297256402736.jpg,,,,,,,,,
+548,Ame18fieldstation-318,Point,119.94621,-21.349568,,105,80,257,69,108,,,foliation,schistosity,,,,,,,,,15297260045877.jpg,,,,,,,,,
+550,Ame18fieldstation-319,Point,119.94636,-21.349413,Pod of granitic gneiss l tectonite,110,84,269,74,105,,,foliation,schistosity,,,,,,,,,15297271292273.jpg,,,,,,,,,
+551,Ame18fieldstation-320,Point,119.946352,-21.34997,,116,81,274,67,111,,,foliation,schistosity,,,,,,,,,15297296845565.jpg,,,,,,,,,
+552,Ame18fieldstation-321,Point,119.946855,-21.349528,,134,83,201,82,87,,,foliation,schistosity,,,,,,,,,15297302409687.jpg,,,,,,,,,
+553,Ame18fieldstation-321,Point,119.946855,-21.349528,,306,89,119,82,98,,,foliation,schistosity,,,,,,,,,15297302409687.jpg,,,,,,,,,
+555,Ame18fieldstation-322,Point,119.947031,-21.349216,Prolomylonite metabasalt. Feldspars show assymetry,126,85,293,69,110,,,foliation,mineral_alignm,,,,,,,,,,,,,,,,,,
+556,Ame18fieldstation-322,Point,119.947031,-21.349216,Prolomylonite metabasalt. Feldspars show assymetry,290,89,293,70,70,,,foliation,mineral_alignm,,,,,,,,,,,,,,,,,,
+558,Ame18fieldstation-324,Point,119.948208,-21.348676,Mixed zone of granitic and metaseds. Granitic are parallel to bedding.,117,83,276,71,108,,,foliation,schistosity,,,,,,,,,15297329655633.jpg,,,,,,,,,
+561,Ame18fieldstation-327,Point,119.952969,-21.352875,,117,84,260,80,98,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+565,Ame18fieldstation-330,Point,119.95298,-21.353583,,130,78,268,72,103,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+567,Ame18fieldstation-332,Point,119.944751,-21.349677,Folded fractures in metabasalt with foliation parallel to axial plane. Foliation has a strong stretching lineation defined by smeared biotite.,105,88,271,82,98,,,foliation,cleavage,fold,synform,276,14,,,,,15298001985340.jpg,15298001985340.jpg,15298001985340.jpg,15298001985340.jpg,15298007352175.jpg,15298007498394.jpg,15298007931359.jpg,,,
+574,Ame18fieldstation-333,Point,119.944772,-21.349635,Felsic unit on west limb of outcrop fold.,118,82,281,65,114,,,foliation,gneissic_folia,,,,,,,,,15298025035988.jpg,15298027560348.jpg,,,,,,,,
+575,Ame18fieldstation-333,Point,119.944772,-21.349635,Felsic unit on west limb of outcrop fold.,110,74,238,70,102,,,foliation,schistosity,,,,,,,,,15298025035988.jpg,15298027560348.jpg,,,,,,,,
+581,Ame18fieldstation-339,Point,119.944084,-21.348576,Interbedded units_ all strongly foliated.,105,86,270,74,105,,,foliation,schistosity,,,,,,,,,15298054040302.jpg,,,,,,,,,
+583,Ame18fieldstation-340,Point,119.943294,-21.348068,Flexural shearing showing dextral motion. Quartzofeldspathic schist is foliated at a higher angle to bedding than chlorite schist. Boundary between them has garnets. Sampled garnets.,125,76,271,66,110,,,bedding,,,,,,,,,,15298078479855.jpg,15298086704761.jpg,,,,,,,,
+584,Ame18fieldstation-340,Point,119.943294,-21.348068,Flexural shearing showing dextral motion. Quartzofeldspathic schist is foliated at a higher angle to bedding than chlorite schist. Boundary between them has garnets. Sampled garnets.,105,80,262,66,112,,,foliation,schistosity,,,,,,,,,15298078479855.jpg,15298086704761.jpg,,,,,,,,
+585,Ame18fieldstation-340,Point,119.943294,-21.348068,Flexural shearing showing dextral motion. Quartzofeldspathic schist is foliated at a higher angle to bedding than chlorite schist. Boundary between them has garnets. Sampled garnets.,128,82,,,,,,foliation,schistosity,,,,,,,,,15298078479855.jpg,15298086704761.jpg,,,,,,,,
+586,Ame18fieldstation-341,Point,119.943574,-21.347905,,119,87,,,,,,foliation,cleavage,,,,,,,,,15298092540694.jpg,,,,,,,,,
+587,Ame18fieldstation-341,Point,119.943574,-21.347905,,98,87,269,72,108,,,foliation,,,,,,,,,,15298092540694.jpg,,,,,,,,,
+588,Ame18fieldstation-341,Point,119.943574,-21.347905,,116,84,280,69,110,,,bedding,,,,,,,,,,15298092540694.jpg,,,,,,,,,
+589,Ame18fieldstation-342,Point,119.94193,-21.347462,,112,84,277,67,112,,,foliation,schistosity,,,,,,,,,15298099969396.jpg,,,,,,,,,
+590,Ame18fieldstation-342,Point,119.94193,-21.347462,,121,89,296,78,102,,,foliation,schistosity,,,,,,,,,15298099969396.jpg,,,,,,,,,
+591,Ame18fieldstation-343,Point,119.940884,-21.346368,On top of hill where we were expecting the hinge to be. Bedding still trends NW SE,126,82,,,,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+592,Ame18fieldstation-343,Point,119.940884,-21.346368,On top of hill where we were expecting the hinge to be. Bedding still trends NW SE,125,83,,,,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+593,Ame18fieldstation-344,Point,119.937267,-21.343132,Granitoid foliated and interleaved with duffer formation.,127,80,262,76,100,,,foliation,gneissic_folia,,,,,,,,,,,,,,,,,,
+596,Ame18fieldstation-346,Point,119.937017,-21.34183,Large outcrop of a Marcus rich granitic gneiss.,124,73,,,102,,,foliation,gneissic_folia,,,,,,,,,15298163456396.jpg,,,,,,,,,
+599,Ame18fieldstation-348,Point,119.93636,-21.339794,Banded gneiss. Aplite dikes are sheared to suggest sinistral shearing.,132,75,261,71,102,,,foliation,gneissic_folia,,,,,,,,,15298178746607.jpg,15298179007970.jpg,,,,,,,,
+601,Ame18fieldstation-349,Point,119.931531,-21.341088,,117,68,239,65,103,,,foliation,gneissic_folia,,,,,,,,,,,,,,,,,,
+602,Ame18fieldstation-350,Point,119.931034,-21.341718,L >S tectonite.,119,84,283,69,110,,,foliation,schistosity,,,,,,,,,15298204764592.jpg,,,,,,,,,
+603,Ame18fieldstation-351,Point,119.932117,-21.341456,L tectonite mafic amphibolite.,126,70,263,62,110,,,foliation,mineral_alignm,,,,,,,,,15298213088427.jpg,,,,,,,,,
+604,Ame18fieldstation-352,Point,119.933047,-21.341623,Stripes paragneiss with long smeared biotite. Quite mafic.,107,76,243,70,104,,,foliation,gneissic_folia,,,,,,,,,15298217876748.jpg,,,,,,,,,
+605,Ame18fieldstation-353,Point,119.933447,-21.341731,,108,68,232,64,104,,,foliation,gneissic_folia,,,,,,,,,15298221147542.jpg,,,,,,,,,
+606,Ame18fieldstation-354,Point,119.9342,-21.341977,Paragneiss with a little less stripe yes’s.,104,72,237,66,106,,,foliation,gneissic_folia,,,,,,,,,15298223941603.jpg,,,,,,,,,
+607,Ame18fieldstation-355,Point,119.935239,-21.342189,,84,74,225,65,109,,,foliation,gneissic_folia,,,,,,,,,15298227538467.jpg,,,,,,,,,
+609,Ame18fieldstation-357,Point,119.936194,-21.343003,,84,83,190,83,92,,,foliation,schistosity,,,,,,,,,15298237123070.jpg,,,,,,,,,
+610,Ame18fieldstation-358,Point,119.937053,-21.343568,Very finely lamited quartzofeldspathic schist.,121,73,231,72,96,,,foliation,schistosity,,,,,,,,,15298239347848.jpg,,,,,,,,,
+612,Ame18fieldstation-359,Point,119.937386,-21.344005,Euhadral magnetite! Chlorite schist with zones of intense crenulation.,92,61,184,61,91,,,foliation,schistosity,,,,,,,,,15298248832025.jpg,,,,,,,,,
+613,Ame18fieldstation-360,Point,119.939091,-21.344557,,113,80,267,68,110,,,foliation,mineral_alignm,,,,,,,,,15298257189150.jpg,,,,,,,,,
+614,Ame18fieldstation-361,Point,119.940356,-21.345484,L tectonite amphibolite gneiss,113,81,237,79,96,,,foliation,gneissic_folia,,,,,,,,,15298266588038.jpg,,,,,,,,,
+615,Ame18fieldstation-362,Point,119.942153,-21.346571,Small bed of paragneiss within metabasalt. 1 m wide.,118,70,235,68,100,,,foliation,gneissic_folia,,,,,,,,,15298271771809.jpg,,,,,,,,,
+617,Ame18fieldstation-364,Point,119.961243,-21.362215,Poorly foliated metabasalt_ fine grained and perhaps chlorite bearing.,149,85,189,82,84,,,foliation,schistosity,,,,,,,,,15298882797285.jpg,,,,,,,,,
+618,Ame18fieldstation-365,Point,119.96157,-21.362106,Mafic amphibolite_ fine to medium grained. Strongly foliated with a foliation parallel cleavage that makes the rock break into flat spears. L tectonite? Hard to tell because everything is so mafic. Also possible SC fabric_ showing dextral motion. Bedding v foliation?,141,74,213,73,85,,,foliation,schistosity,,,,,,,,,15298887105048.jpg,15298888477968.jpg,,,,,,,,
+620,Ame18fieldstation-366,Point,119.961553,-21.361915,Fine grained amphibolite with a highly plane foliation. Lamited at the 1 - 2 cm scale.,145,75,206,73,82,,,foliation,schistosity,,,,,,,,,15298895315992.jpg,,,,,,,,,
+625,Ame18fieldstation-371,Point,119.961744,-21.361648,Modules of amphibolite metabasalt_ with zones of curved schist layers separating them.,154,83,,,,,,foliation,schistosity,,,,,,,,,15298913049116.jpg,,,,,,,,,
+626,Ame18fieldstation-371,Point,119.961744,-21.361648,Modules of amphibolite metabasalt_ with zones of curved schist layers separating them.,150,69,268,66,101,,,foliation,schistosity,,,,,,,,,15298913049116.jpg,,,,,,,,,
+627,Ame18fieldstation-372,Point,119.961791,-21.361609,4 m wide zone of strongly foliated_ partially carbonitized basalt. Zones of kink bands_ all showing sinistral motion.,172,73,,,,,,foliation,crenulation_cl,fold,s_fold,247,63,,,,,15298928085702.jpg,,,,,,,,,
+628,Ame18fieldstation-372,Point,119.961791,-21.361609,4 m wide zone of strongly foliated_ partially carbonitized basalt. Zones of kink bands_ all showing sinistral motion.,177,65,,,,,,,,fold,s_fold,215,56,,,,,15298928085702.jpg,,,,,,,,,
+629,Ame18fieldstation-372,Point,119.961791,-21.361609,4 m wide zone of strongly foliated_ partially carbonitized basalt. Zones of kink bands_ all showing sinistral motion.,178,75,,,,,,foliation,crenulation_cl,fold,s_fold,200,63,,,,,15298928085702.jpg,,,,,,,,,
+630,Ame18fieldstation-372,Point,119.961791,-21.361609,4 m wide zone of strongly foliated_ partially carbonitized basalt. Zones of kink bands_ all showing sinistral motion.,182,76,,,,,,foliation,crenulation_cl,fold,s_fold,252,62,,,,,15298928085702.jpg,,,,,,,,,
+638,Ame18fieldstation-376,Point,119.961657,-21.360434,Coherent strong fabric_ ridge forming unit.,147,77,246,77,92,,,foliation,schistosity,,,,,,,,,15298966437080.jpg,,,,,,,,,
+647,Ame18fieldstation-381,Point,119.96279,-21.361219,Garnets!,156,75,296,67,107,,,foliation,gneissic_folia,,,,,,,,,15299058737314.jpg,,,,,,,,,
+671,Ame18fieldstation-400,Point,119.941404,-21.356533,,180,77,,,98,,,bedding,,,,,,,,,,,,,,,,,,,
+673,Ame18fieldstation-402,Point,119.941384,-21.356596,Short limb of dextral fold.,201,72,285,72,88,,,bedding,,,,,,,,,,15300668696212.jpg,,,,,,,,,
+674,Ame18fieldstation-403,Point,119.941425,-21.356722,Short limb of dextral folding.,37,80,,,55,,,bedding,,,,,,,,,,15300673175221.jpg,15300681485112.jpg,,,,,,,,
+676,Ame18fieldstation-404,Point,119.94152,-21.356734,Long limb.,254,87,274,81,82,,,bedding,,,,,,,,,,,,,,,,,,,
+677,Ame18fieldstation-405,Point,119.94155,-21.356737,Hinge,352,90,352,79,79,,,bedding,,,,,,,,,,,,,,,,,,,
+678,Ame18fieldstation-406,Point,119.941507,-21.356761,,240,78,,,,,,foliation,crenulation_cl,,,,,,,,,,,,,,,,,,
+679,Ame18fieldstation-408,Point,119.941489,-21.356814,,244,76,,,,,,foliation,crenulation_cl,,,,,,,,,,,,,,,,,,
+680,Ame18fieldstation-409,Point,119.941485,-21.356872,,194,84,,,,,,foliation,crenulation_cl,,,,,,,,,,,,,,,,,,
+681,Ame18fieldstation-410,Point,119.942277,-21.356894,,242,83,,,,,,foliation,crenulation_cl,,,,,,,,,,,,,,,,,,
+683,Ame18fieldstation-412,Point,119.937829,-21.355579,,23,78,,,,,,foliation,crenulation_cl,,,,,,,,,15300841228600.jpg,,,,,,,,,
+684,Ame18fieldstation-413,Point,119.938911,-21.355658,,119,87,290,71,109,,,bedding,,,,,,,,,,,,,,,,,,,
+685,Ame18fieldstation-415,Point,119.938916,-21.355656,,118,87,286,76,104,,,bedding,,,,,,,,,,,,,,,,,,,
+686,Ame18fieldstation-416,Point,119.938928,-21.355652,,113,88,,,101,,,bedding,,,,,,,,,,,,,,,,,,,
+687,Ame18fieldstation-417,Point,119.938936,-21.355658,,118,86,287,70,110,,,bedding,,,,,,,,,,,,,,,,,,,
+691,Ame18fieldstation-421,Point,119.939237,-21.355716,,298,87,316,81,81,,,bedding,,,,,,,,,,,,,,,,,,,
+692,Ame18fieldstation-424,Point,119.939253,-21.355706,,307,75,355,70,77,,,bedding,,,,,,,,,,,,,,,,,,,
+693,Ame18fieldstation-425,Point,119.939252,-21.355705,Fault that offsets chert member by at least 1.5 m. Interbedded chert and schist bends to further indicate sinistral movement. Slick engines present.,246,84,248,18,18,,,fault,,,,,,,,,,15301491212922.jpg,15301491362396.jpg,15301491632867.jpg,,,,,,,
+696,Ame18fieldstation-426,Point,119.939228,-21.35572,,114,87,279,79,101,,,bedding,,,,,,,,,,,,,,,,,,,
+697,Ame18fieldstation-427,Point,119.939341,-21.355746,,300,85,326,79,80,,,bedding,,,,,,,,,,,,,,,,,,,
+699,Ame18fieldstation-429,Point,119.939363,-21.3558,,295,88,300,68,68,,,bedding,,,,,,,,,,,,,,,,,,,
+700,Ame18fieldstation-430,Point,119.939447,-21.355795,,114,88,282,81,99,,,bedding,,,,,,,,,,,,,,,,,,,
+701,Ame18fieldstation-431,Point,119.939491,-21.355812,,125,86,291,74,106,,,bedding,,,,,,,,,,15301513672088.jpg,,,,,,,,,
+702,Ame18fieldstation-432,Point,119.939571,-21.355855,,176,86,326,82,97,,,bedding,,,,,,,,,,,,,,,,,,,
+703,Ame18fieldstation-433,Point,119.939744,-21.355937,,266,84,289,75,76,,,bedding,,,,,,,,,,,,,,,,,,,
+704,Ame18fieldstation-434,Point,119.939805,-21.355959,,142,85,304,74,105,,,bedding,,,,,,,,,,,,,,,,,,,
+707,Ame18fieldstation-437,Point,119.939851,-21.356177,,225,88,11,86,93,,,bedding,,,,,,,,,,15301549176751.jpg,,,,,,,,,
+708,Ame18fieldstation-438,Point,119.9398406,-21.35619153,,234,90,54,88,92,,,bedding,,,,,,,,,,,,,,,,,,,
+713,Ame18fieldstation-443,Point,119.939813,-21.356202,,14,84,,,84,,,bedding,,,,,,,,,,,,,,,,,,,
+714,Ame18fieldstation-445,Point,119.939476,-21.356273,,278,74,324,68,75,,,bedding,,,,,,,,,,15301571448299.jpg,,,,,,,,,
+715,Ame18fieldstation-446,Point,119.939415,-21.356273,,125,87,,,90,,,bedding,,,,,,,,,,,,,,,,,,,
+722,Ame18fieldstation-450,Point,119.939444,-21.356353,,322,82,360,77,80,,,bedding,,,,,,,,,,,,,,,,,,,
+724,Ame18fieldstation-452,Point,119.939492,-21.356433,,323,79,5,74,78,,,bedding,,,,,,,,,,,,,,,,,,,
+726,Ame18fieldstation-454,Point,119.939625,-21.356441,Not Stripey chert. Lamited cherts with bedding parallel fractures every 2xq10 cm,324,84,357,79,81,,,bedding,,,,,,,,,,,,,,,,,,,
+727,Ame18fieldstation-455,Point,119.939648,-21.356465,,287,80,332,76,80,,,bedding,,,,,,,,,,,,,,,,,,,
+728,Ame18fieldstation-456,Point,119.939745,-21.356382,Small scale sinistral fold on a large fold.,250,73,347,73,92,,,bedding,,,,,,,,,,15301669958835.jpg,15301670590361.jpg,,,,,,,,
+729,Ame18fieldstation-456,Point,119.939745,-21.356382,Small scale sinistral fold on a large fold.,310,83,334,73,75,,,bedding,,,,,,,,,,15301669958835.jpg,15301670590361.jpg,,,,,,,,
+730,Ame18fieldstation-456,Point,119.939745,-21.356382,Small scale sinistral fold on a large fold.,201,82,230,74,76,,,bedding,,,,,,,,,,15301669958835.jpg,15301670590361.jpg,,,,,,,,
+731,Ame18fieldstation-457,Point,119.939792,-21.356329,,48,86,,,92,,,bedding,,,,,,,,,,,,,,,,,,,
+732,Ame18fieldstation-458,Point,119.939787,-21.356314,,249,82,33,76,101,,,bedding,,,,,,,,,,,,,,,,,,,
+735,Ame18fieldstation-460,Point,119.939989,-21.356219,,272,88,78,82,98,,,bedding,,,,,,,,,,,,,,,,,,,
+737,Ame18fieldstation-461,Point,119.940011,-21.356188,,10,80,89,80,88,,,bedding,,,,,,,,,,,,,,,,,,,
+738,Ame18fieldstation-462,Point,119.940032,-21.356159,,46,90,46,72,72,,,bedding,,,,,,,,,,,,,,,,,,,
+739,Ame18fieldstation-463,Point,119.9400243,-21.35614923,,129,88,303,71,109,,,bedding,,,,,,,,,,,,,,,,,,,
+740,Ame18fieldstation-464,Point,119.940001,-21.356143,,320,85,339,75,76,,,bedding,,,,,,,,,,,,,,,,,,,
+741,Ame18fieldstation-465,Point,119.939991,-21.356136,,200,84,335,82,96,,,bedding,,,,,,,,,,,,,,,,,,,
+746,Ame18fieldstation-469,Point,119.940087,-21.355792,Foliation is crenulated.,271,86,293,79,80,,,foliation,,,,,,,,,,15302356410153.jpg,,,,,,,,,
+747,Ame18fieldstation-469,Point,119.940087,-21.355792,Foliation is crenulated.,47,80,,,,,,foliation,crenulation_cl,,,,,,,,,15302356410153.jpg,,,,,,,,,
+748,Ame18fieldstation-470,Point,119.9386444,-21.35533218,Bedding in a large scale fold.,149,87,317,76,104,,,bedding,,,,,,,,,,,,,,,,,,,
+749,Ame18fieldstation-471,Point,119.937034,-21.354381,,323,86,345,79,80,,,bedding,,,,,,,,,,15302398346585.jpg,15302398647722.jpg,,,,,,,,
+751,Ame18fieldstation-472,Point,119.93722,-21.354578,,165,86,323,79,100,,,bedding,,,,,,,,,,,,,,,,,,,
+752,Ame18fieldstation-473,Point,119.937275,-21.354827,,160,90,340,85,95,,,bedding,,,,,,,,,,15302405328497.jpg,,,,,,,,,
+753,Ame18fieldstation-473,Point,119.937275,-21.354827,,7,86,,,,,,foliation,cleavage,,,,,,,,,15302405328497.jpg,,,,,,,,,
+754,Ame18fieldstation-474,Point,119.937527,-21.355097,This bed is in stratigraphiccontinuity with the previous measurements_ lower in the section,350,82,,,84,,,bedding,,,,,,,,,,,,,,,,,,,
+755,Ame18fieldstation-475,Point,119.937585,-21.35518,Small scale slightly dextral fold.,32,88,,,,,,foliation,crenulation_cl,fold,z_fold,45,85,66,83,,,15302416817260.jpg,,,,,,,,,
+758,Ame18fieldstation-477,Point,119.937789,-21.355393,,15,89,,,,,,foliation,cleavage,,,,,,,,,,,,,,,,,,
+759,Ame18fieldstation-478,Point,119.937922,-21.355381,Well developed crenulation cleavage.,197,89,,,,,,foliation,crenulation_cl,,,,,,,,,15302428974355.jpg,15302429138912.jpg,,,,,,,,
+760,Ame18fieldstation-478,Point,119.937922,-21.355381,Well developed crenulation cleavage.,276,85,344,85,88,,,bedding,,,,,,,,,,15302428974355.jpg,15302429138912.jpg,,,,,,,,
+762,Ame18fieldstation-480,Point,119.938196,-21.355445,Symmetrical crenulations in small scale symmetric folds.,20,82,,,,,,foliation,crenulation_cl,,,,,,,,,15302440426209.jpg,,,,,,,,,
+763,Ame18fieldstation-480,Point,119.938196,-21.355445,Symmetrical crenulations in small scale symmetric folds.,104,88,266,84,96,,,bedding,,,,,,,,,,15302440426209.jpg,,,,,,,,,
+764,Ame18fieldstation-481,Point,119.937832,-21.355618,Finely interbedded chert and qf schist.,31,74,,,,,,foliation,crenulation_cl,,,,,,,,,15302448606332.jpg,15302449446050.jpg,,,,,,,,
+765,Ame18fieldstation-481,Point,119.937832,-21.355618,Finely interbedded chert and qf schist.,83,78,,,,,,bedding,,,,,,,,,,15302448606332.jpg,15302449446050.jpg,,,,,,,,
+766,Ame18fieldstation-482,Point,119.937354,-21.355165,The lumpadump layer! Deformed chert. The quartz grains may show sinistral shear sense within the bed itself. Ssdd,158,80,248,80,90,,,bedding,,,,,,,,,,,,,,,,,,,
+767,Ame18fieldstation-483,Point,119.936945,-21.355447,Cherts schists,349,84,,,86,,,bedding,,,,,,,,,,15302487447124.jpg,,,,,,,,,
+768,Ame18fieldstation-483,Point,119.936945,-21.355447,Cherts schists,54,88,,,,,,foliation,crenulation_cl,,,,,,,,,15302487447124.jpg,,,,,,,,,
+769,Ame18fieldstation-484,Point,119.93696,-21.355643,,10,85,111,85,91,,,bedding,,,,,,,,,,15302489992394.jpg,15302491222981.jpg,,,,,,,,
+770,Ame18fieldstation-484,Point,119.93696,-21.355643,,281,83,,,,,,foliation,crenulation_cl,,,,,,,,,15302489992394.jpg,15302491222981.jpg,,,,,,,,
+771,Ame18fieldstation-485,Point,119.9369609,-21.35584976,,346,89,354,83,83,,,bedding,,,,,,,,,,,,,,,,,,,
+775,Ame18fieldstation-489,Point,119.939062,-21.356128,Schist chlorite,10,76,84,75,86,,,bedding,,,,,,,,,,,,,,,,,,,
+776,Ame18fieldstation-489,Point,119.939062,-21.356128,Schist chlorite,273,87,,,,,,foliation,crenulation_cl,,,,,,,,,,,,,,,,,,
+777,Ame18fieldstation-490,Point,119.939123,-21.356174,Chlorite schist_ small distinct bed that you can visually follow down the hill.,223,88,,,,,,foliation,crenulation_cl,,,,,,,,,,,,,,,,,,
+778,Ame18fieldstation-490,Point,119.939123,-21.356174,Chlorite schist_ small distinct bed that you can visually follow down the hill.,174,86,,,,,,bedding,,,,,,,,,,,,,,,,,,,
+779,Ame18fieldstation-491,Point,119.939183,-21.35642,Hinge of fold_ open fold of chlorite schist bed.,240,81,,,,,,foliation,crenulation_cl,,,,,,,,,,,,,,,,,,
+786,Ame18fieldstation-499,Point,119.955801,-21.36802,Chert bed with thoroughgoing cleavage.,132,83,,,,,,bedding,,,,,,,,,,15304935513029.jpg,,,,,,,,,
+787,Ame18fieldstation-499,Point,119.955801,-21.36802,Chert bed with thoroughgoing cleavage.,277,80,,,,,,foliation,cleavage,,,,,,,,,15304935513029.jpg,,,,,,,,,
+793,Ame18fieldstation-504,Point,119.955888,-21.368084,Cherts schist cleavage inside the hinge of a 10 m fold.,79,87,,,,,,foliation,crenulation_cl,,,,,,,,,15304949911459.jpg,,,,,,,,,
+800,Ame18fieldstation-511,Point,119.956206,-21.368295,,282,76,316,66,70,,,bedding,,,,,,,,,,15304979569029.jpg,,,,,,,,,
+801,Ame18fieldstation-512,Point,119.956102,-21.368489,3 m scale fold hinge.southern limb has overprinting lineation_ with slickenfibers perpendicular to the stretching lineation parallel to the hinge. The other lineation trends opposite the hinge and may be from an earlier fabric before folding.,258,88,267,78,78,,,bedding,,fold,,288,78,281,89,,,15305012425411.jpg,,,,,,,,,
+802,Ame18fieldstation-512,Point,119.956102,-21.368489,3 m scale fold hinge.southern limb has overprinting lineation_ with slickenfibers perpendicular to the stretching lineation parallel to the hinge. The other lineation trends opposite the hinge and may be from an earlier fabric before folding.,290,85,299,60,60,,,bedding,,,,,,,,,,15305012425411.jpg,,,,,,,,,
+805,Ame18fieldstation-513,Point,119.956058,-21.368483,Another fold in the same chert unit.,266,89,84,65,115,,,bedding,,fold,,109,85,,,,,,,,,,,,,,
+806,Ame18fieldstation-513,Point,119.956058,-21.368483,Another fold in the same chert unit.,330,71,66,71,92,,,bedding,,,,,,,,,,,,,,,,,,,
+807,Ame18fieldstation-514,Point,119.955948,-21.368286,2 m fold_ dextral zon eier limb_ lineation seems to be plunging opposite ways on the two limbs.,265,80,68,59,120,,,bedding,,fold,,265,84,258,87,,,15305025032504.jpg,,,,,,,,,
+808,Ame18fieldstation-514,Point,119.955948,-21.368286,2 m fold_ dextral zon eier limb_ lineation seems to be plunging opposite ways on the two limbs.,281,85,307,79,80,,,bedding,,,,,,,,,,15305025032504.jpg,,,,,,,,,
+814,Ame18fieldstation-517,Point,119.956884,-21.368122,Crenulations with shallowly plunging bands of finer crenulations.,92,86,,,,,,foliation,crenulation_cl,,,,,,,,,15305090573998.jpg,,,,,,,,,
+817,Ame18fieldstation-519,Point,119.95675,-21.367874,Reverse sense of motion by deformed  quartz veins_ motion is in yz plane.,312,81,129,19,161,,,bedding,,,,,,,,,,15305108592390.jpg,,,,,,,,,
+819,Ame18fieldstation-521,Point,119.956306,-21.367227,,325,81,381,79,84,,,bedding,,,,,,,,,,15305117377751.jpg,,,,,,,,,
+820,Ame18fieldstation-522,Point,119.956154,-21.367119,,134,79,169,71,75,,,bedding,,,,,,,,,,,,,,,,,,,
+821,Ame18fieldstation-523,Point,119.955724,-21.366822,,145,71,238,71,91,,,bedding,,,,,,,,,,,,,,,,,,,
+822,Ame18fieldstation-524,Point,119.95536,-21.366428,,139,74,208,73,84,,,bedding,,,,,,,,,,,,,,,,,,,
+823,Ame18fieldstation-525,Point,119.9546011,-21.36542858,,142,74,265,71,100,,,bedding,,,,,,,,,,,,,,,,,,,
+824,Ame18fieldstation-526,Point,119.954535,-21.365377,,153,65,189,52,60,,,bedding,,,,,,,,,,,,,,,,,,,
+825,Ame18fieldstation-527,Point,119.95427,-21.364869,,140,87,248,87,91,,,bedding,,,,,,,,,,,,,,,,,,,
+826,Ame18fieldstation-528,Point,119.9541388,-21.36500554,Army green chert bed.,341,84,133,77,101,,,bedding,,,,,,,,,,,,,,,,,,,
+827,Ame18fieldstation-529,Point,119.954041,-21.364809,Army green chert,342,86,,,90,,,bedding,,,,,,,,,,,,,,,,,,,
+828,Ame18fieldstation-530,Point,119.953985,-21.364731,Army green chert,153,84,261,84,92,,,bedding,,,,,,,,,,,,,,,,,,,
+829,Ame18fieldstation-531,Point,119.95401,-21.364667,Army green chert,112,82,279,58,121,,,bedding,,,,,,,,,,,,,,,,,,,
+831,Ame18fieldstation-533,Point,119.954174,-21.364767,Army green chert.,134,77,272,71,104,,,bedding,,,,,,,,,,,,,,,,,,,
+832,Ame18fieldstation-534,Point,119.954159,-21.364755,,161,76,306,67,109,,,bedding,,,,,,,,,,,,,,,,,,,
+833,Ame18fieldstation-535,Point,119.954183,-21.364732,Army green chert. Seems like the inside of a fold. I think I am measuring bedding_ but could be cleavage.,120,78,229,77,94,,,bedding,,,,,,,,,,,,,,,,,,,
+834,Ame18fieldstation-536,Point,119.9541907,-21.36469059,Army green chert_ north limb of fold.,128,78,141,46,47,,,bedding,,,,,,,,,,,,,,,,,,,
+835,Ame18fieldstation-537,Point,119.954165,-21.364672,Army green chert,134,78,144,39,40,,,bedding,,,,,,,,,,,,,,,,,,,
+836,Ame18fieldstation-538,Point,119.9542011,-21.36462276,South limb of a fold. A series of moderately plunging folds  with an overall mt Edgar up sense of shear.,115,75,150,65,70,,,bedding,,fold,antiform,129,58,114,76,,,15305841709330.jpg,15305849635958.jpg,,,,,,,,
+839,Ame18fieldstation-539,Point,119.954207,-21.364519,Sampled chert bed. Maybe the pervasive fracture pattern is perpendicular to the moderately dipping folds?,246,53,,,,,,fracture,,,,,,,,,,,,,,,,,,,
+843,Ame18fieldstation-543,Point,119.952117,-21.364004,,121,83,131,54,55,,,bedding,,,,,,,,,,15305900858536.jpg,,,,,,,,,
+845,Ame18fieldstation-545,Point,119.951597,-21.364623,,311,76,18,75,84,,,bedding,,,,,,,,,,,,,,,,,,,
+846,Ame18fieldstation-546,Point,119.951866,-21.364871,Chert unit_ boudined slightly.,142,86,269,85,93,,,bedding,,,,,,,,,,15305932234110.jpg,,,,,,,,,
+847,Ame18fieldstation-547,Point,119.953009,-21.365769,,285,84,,,87,,,bedding,,,,,,,,,,,,,,,,,,,
+849,Ame18fieldstation-549,Point,119.953128,-21.365835,Small scale folds.,146,86,185,84,85,,,bedding,,,,,,,,,,15305945570685.jpg,15305945734989.jpg,,,,,,,,
+850,Ame18fieldstation-549,Point,119.953128,-21.365835,Small scale folds.,85,87,,,,,,foliation,crenulation_cl,,,,,,,,,15305945570685.jpg,15305945734989.jpg,,,,,,,,
+851,Ame18fieldstation-550,Point,119.95342,-21.366419,Short limb of 50 m scale dextral fold.,344,83,33,81,84,,,bedding,,,,,,,,,,,,,,,,,,,
+852,Ame18fieldstation-551,Point,119.953506,-21.366515,,294,66,352,62,76,,,bedding,,,,,,,,,,,,,,,,,,,
+854,Ame18fieldstation-553,Point,119.953506,-21.366679,,57,84,147,84,90,,,bedding,,,,,,,,,,,,,,,,,,,
+856,Ame18fieldstation-555,Point,119.953851,-21.367272,Bed is interlly boudined. Pic.,304,78,91,68,108,,,bedding,,,,,,,,,,15305965020529.jpg,,,,,,,,,
+858,Ame18fieldstation-557,Point,119.953755,-21.367501,Fibrous mineral growth in a schist.,82,78,,,,,,fracture,,,,,,,,,,15305979634566.jpg,15305979790157.jpg,,,,,,,,
+860,Ame18fieldstation-558,Point,119.953503,-21.367875,Finely lamited mafic schist.,286,78,,,,,,foliation,,,,,,,,,,15305986136949.jpg,,,,,,,,,
+863,Ame18fieldstation-561,Point,119.961406,-21.362543,Metabasalt,330,74,,,,,,foliation,schistosity,,,,,,,,,15307501707368.jpg,,,,,,,,,
+864,Ame18fieldstation-562,Point,119.961493,-21.362512,,129,70,239,69,97,,,foliation,mineral_alignm,,,,,,,,,,,,,,,,,,
+865,Ame18fieldstation-563,Point,119.961797,-21.362365,Dextral foliation crosses a felsic schist “bed”. Felsic schist is inter layered at the Hal meter scale with amphibolite schist.,138,88,284,86,93,,,foliation,schistosity,,,,,,,,,15307508049031.jpg,,,,,,,,,
+866,Ame18fieldstation-564,Point,119.962024,-21.362272,20 cm felsic schist bed. Dextral cleavage when compared to bedding contact.,136,89,314,65,115,,,foliation,schistosity,,,,,,,,,15307510815986.jpg,,,,,,,,,
+867,Ame18fieldstation-565,Point,119.962141,-21.362214,Stripey amphibolite schist. Biotite.,150,69,243,69,91,,,foliation,gneissic_folia,,,,,,,,,15307513816963.jpg,15307514210566.jpg,,,,,,,,
+884,Ame18fieldstation-576,Point,119.960194,-21.359409,,134,84,293,74,105,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+885,Ame18fieldstation-577,Point,119.960323,-21.359184,Interbeddedschists.,308,86,322,74,74,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+886,Ame18fieldstation-578,Point,119.960471,-21.358954,Very quarts rich quartzofeldspathic schist. Ridge forming unit.,125,77,273,66,110,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+887,Ame18fieldstation-579,Point,119.960481,-21.35825,,140,77,282,69,106,,,foliation,schistosity,,,,,,,,,15307676881353.jpg,15307676951102.jpg,15307680408665.jpg,,,,,,,
+892,Ame18fieldstation-583,Point,119.959834,-21.357624,Interbedded schists_ water polished.,135,81,285,73,105,,,bedding,,,,,,,,,,15307695208583.jpg,,,,,,,,,
+893,Ame18fieldstation-585,Point,119.958521,-21.3568,Sinistral and dextral folds.,167,75,,,,,,foliation,,fold,s_fold,195,81,10,95,,,15307713938457.jpg,15307716110743.jpg,,,,,,,,
+895,Ame18fieldstation-586,Point,119.956794,-21.355007,,137,83,243,83,92,,,foliation,schistosity,,,,,,,,,15307730807168.jpg,,,,,,,,,
+896,Ame18fieldstation-587,Point,119.9563,-21.354528,1 m interbedded schists.,135,74,239,74,94,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+897,Ame18fieldstation-588,Point,119.955964,-21.354712,Finely lamited muscovite schist. Very crenulated.,308,75,42,75,91,,,foliation,schistosity,,,,,,,,,15307739183273.jpg,,,,,,,,,
+898,Ame18fieldstation-589,Point,119.955589,-21.355097,,318,86,340,79,80,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+899,Ame18fieldstation-590,Point,119.956189,-21.355729,,305,87,315,74,74,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+903,Ame18fieldstation-592,Point,119.944612,-21.352269,Kink bands with mt Edgar up sense of shear overprint lineation. In larger scale mt Edgar down fold.,302,84,317,67,68,,,foliation,,,,,,,,,,15308371719169.jpg,15308372017352.jpg,15308372127931.jpg,,,,,,,
+906,Ame18fieldstation-593,Point,119.943666,-21.355028,Chlorite schist is wavy folded_ very open_ about a vertical hinge. Crenulation cleavage.,224,87,,,,,,foliation,crenulation_cl,,,,,,,,,15308384640446.jpg,,,,,,,,,
+907,Ame18fieldstation-594,Point,119.943817,-21.355147,Axial plar crenulation cleavage in chlorite schist.,219,84,,,,,,foliation,crenulation_cl,,,,,,,,,15308388930649.jpg,15308389119176.jpg,,,,,,,,
+908,Ame18fieldstation-594,Point,119.943817,-21.355147,Axial plar crenulation cleavage in chlorite schist.,320,72,360,63,70,,,foliation,schistosity,,,,,,,,,15308388930649.jpg,15308389119176.jpg,,,,,,,,
+909,Ame18fieldstation-595,Point,119.943571,-21.355933,Crenulation cleavage in chlorite schist. Mostly symmetric folds_ some sinistral,204,84,,,,,,foliation,crenulation_cl,,,,,,,,,15308395165034.jpg,15308395984126.jpg,,,,,,,,
+910,Ame18fieldstation-595,Point,119.943571,-21.355933,Crenulation cleavage in chlorite schist. Mostly symmetric folds_ some sinistral,198,85,,,,,,foliation,crenulation_cl,,,,,,,,,15308395165034.jpg,15308395984126.jpg,,,,,,,,
+912,Ame18fieldstation-597,Point,119.943206,-21.356291,Crenulation cleavage in chlorite schist.,34,84,,,,,,foliation,crenulation_cl,,,,,,,,,15308410318634.jpg,,,,,,,,,
+913,Ame18fieldstation-597,Point,119.943206,-21.356291,Crenulation cleavage in chlorite schist.,81,79,,,,,,foliation,schistosity,,,,,,,,,15308410318634.jpg,,,,,,,,,
+914,Ame18fieldstation-598,Point,119.941125,-21.357151,Very plar schist.,325,88,330,70,70,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+915,Ame18fieldstation-599,Point,119.941083,-21.357478,1 m wide striped chert bed. Next to granite (?) bearing unit,276,88,288,81,81,,,bedding,,,,,,,,,,15308424787191.jpg,,,,,,,,,
+919,Ame18fieldstation-602,Point,119.940204,-21.357162,Interbedded cherts and schists_ at 2 cm scale.,112,85,283,62,118,,,bedding,,fold,z_fold,319,75,245,76,,,15308442367261.jpg,15308445790790.jpg,,,,,,,,
+921,Ame18fieldstation-603,Point,119.940157,-21.357095,Chlorite schist south of and next to 1 m thick chert bed.,114,81,255,76,101,,,bedding,,,,,,,,,,,,,,,,,,,
+922,Ame18fieldstation-604,Point,119.940111,-21.357093,1 m thick chert bed.,290,78,324,69,73,,,bedding,,,,,,,,,,,,,,,,,,,
+923,Ame18fieldstation-605,Point,119.940108,-21.35698,Quartzofeldspathic schist with veins that have been folded at a shallow angle. But lineation in schist is still steeply plunging.,280,73,334,69,78,,,foliation,schistosity,fold,,296,23,296,87,,,15308453104876.jpg,,,,,,,,,
+924,Ame18fieldstation-606,Point,119.939861,-21.356843,Chlorite schist,289,77,331,71,76,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+925,Ame18fieldstation-607,Point,119.939402,-21.356473,,158,84,324,66,113,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+926,Ame18fieldstation-608,Point,119.9394,-21.356377,,246,88,,,,,,foliation,crenulation_cl,,,,,,,,,,,,,,,,,,
+927,Ame18fieldstation-608,Point,119.9394,-21.356377,,338,84,,,,,,foliation,plar_schistosity,,,,,,,,,,,,,,,,,,
+928,Ame18fieldstation-609,Point,119.939261,-21.356369,Chlorite schist with very strong crenulation cleavage cutting throu small scale folds.,65,88,,,,,,foliation,crenulation_cl,,,,,,,,,15308472876706.jpg,,,,,,,,,
+929,Ame18fieldstation-609,Point,119.939261,-21.356369,Chlorite schist with very strong crenulation cleavage cutting throu small scale folds.,246,84,,,,,,foliation,crenulation_cl,,,,,,,,,15308472876706.jpg,,,,,,,,,
+930,Ame18fieldstation-610,Point,119.939076,-21.356102,Very strong crenulation cleavage— origil foliation is almost obliterated.,243,85,,,,,,foliation,crenulation_cl,,,,,,,,,15308477071371.jpg,15308477211202.jpg,,,,,,,,
+931,Ame18fieldstation-610,Point,119.939076,-21.356102,Very strong crenulation cleavage— origil foliation is almost obliterated.,354,83,,,,,,foliation,schistosity,,,,,,,,,15308477071371.jpg,15308477211202.jpg,,,,,,,,
+932,Ame18fieldstation-611,Point,119.938977,-21.35597503,Interbedded cherts and schists_ with dextral asymmetric skinks and folds. Crenulations.,288,87,305,80,80,,,bedding,,,,,,,,,,,,,,,,,,,
+933,Ame18fieldstation-611,Point,119.938977,-21.35597503,Interbedded cherts and schists_ with dextral asymmetric skinks and folds. Crenulations.,229,81,,,,,,foliation,crenulation_cl,,,,,,,,,,,,,,,,,,
+934,Ame18fieldstation-612,Point,119.939011,-21.356007,Hinge of an open fold.,157,72,250,72,91,,,bedding,,,,,,,,,,15308486648496.jpg,,,,,,,,,
+935,Ame18fieldstation-612,Point,119.939011,-21.356007,Hinge of an open fold.,76,87,,,,,,foliation,crenulation_cl,,,,,,,,,15308486648496.jpg,,,,,,,,,
+936,Ame18fieldstation-613,Point,119.939073,-21.356025,Southern limb of open fold,185,76,248,74,83,,,bedding,,,,,,,,,,,,,,,,,,,
+937,Ame18fieldstation-613,Point,119.939073,-21.356025,Southern limb of open fold,94,85,,,,,,foliation,crenulation_cl,,,,,,,,,,,,,,,,,,
+939,Ame18fieldstation-614,Point,119.93892,-21.355837,Felsic schist with small porphyroclasts_ very well crenulated.,204,81,,,,,,foliation,crenulation_cl,,,,,,,,,15308493152860.jpg,,,,,,,,,
+940,Ame18fieldstation-615,Point,119.937216,-21.356175,,265,86,299,83,84,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+941,Ame18fieldstation-616,Point,119.936447,-21.355595,,174,86,315,84,95,,,bedding,,,,,,,,,,,,,,,,,,,
+942,Ame18fieldstation-617,Point,119.936256,-21.355288,,135,74,239,74,94,,,foliation,schistosity,,,,,,,,,,,,,,,,,,
+944,Ame18fieldstation-619,Point,119.935437,-21.356714,,254,84,,,,,,,,fold,other,257,29,240,84,,,15308581346731.jpg,,,,,,,,,
+945,Ame18fieldstation-620,Point,119.935327,-21.356771,Dextral kink bands in felsic quartzofeldspathic schist,210,88,,,,,,,,,,,,,,,,15308584679479.jpg,,,,,,,,,
+948,Ame18fieldstation-623,Point,119.935991,-21.356921,Kink banding showed very clear thrust sense ( s up ),64,84,154,84,90,,,foliation,schistosity,,,,,,,,,15308597049784.jpg,15308598045428.jpg,,,,,,,,
+950,Ame18fieldstation-624,Point,119.936172,-21.357044,Crenulation cleavage_ dextral crenulations.,173,74,,,,,,foliation,crenulation_cl,,,,,,,,,15308602019236.jpg,,,,,,,,,
+951,Ame18fieldstation-624,Point,119.936172,-21.357044,Crenulation cleavage_ dextral crenulations.,256,77,,,,,,foliation,schistosity,,,,,,,,,15308602019236.jpg,,,,,,,,,
+957,Ame18fieldstation-627,Point,119.834338,-21.383808,Coarse grained granitoid porphyritic granitoid_ very weak to no fabric,347,81,,,,,,foliation,mineral_alignm,,,,,,,,,15310191260629.jpg,,,,,,,,,
+998,Ame18fieldstation-651,Point,120.004382,-21.163163,"Very fresh outcrop of medium to coarse granitoid.
+0.05
+0.01
+0.04
+0.00",334,86,,,,,,foliation,mineral_alignm,,,,,,,,,15314636788786.jpg,,,,,,,,,
+1003,Ame18fieldstation-655,Point,119.798328,-21.298183,2 m wide chert unit with en echelon tension gashes.,294,72,112,8,172,,,bedding,,,,,,,,,,15315361807820.jpg,,,,,,,,,
+1005,Ame18fieldstation-656,Point,119.794611,-21.303679,3 meter wide outcrop of chert_ may be thicker. Very Stripey.,98,89,277,46,134,,,bedding,,,,,,,,,,15315384526877.jpg,15315387350941.jpg,,,,,,,,
+1013,Ame18fieldstation-661,Point,119.83032,-21.319422,2 m wide thick chert bed with several sinistral faults_ with 6 or 7 m of horizontal outcrop.,306,82,81,79,98,,,bedding,,,,,,,,,,15315474891713.jpg,,,,,,,,,
+1018,Ame18fieldstation-664,Point,120.127052,-21.384838,"Coarse grained granite with large amphibole and magnetite. 
+
+4.55
+2.50
+2.11
+4.75",60,73,,,,,,foliation,mineral_alignm,,,,,,,,,15316179377128.jpg,,,,,,,,,
+1021,Ame18fieldstation-666,Point,120.15939,-21.39136,"Two granitic gneisses. One medium grained_ very strongly foliated granitoid with wispy biotite (sample a). The other_ a slightly more weakly foliated granitoid without the wispy biotite. 
+
+0.42. B
+0.96  b
+1.45. A
+1.31. A",50,70,,,,,,foliation,gneissic_folia,,,,,,,,,15316215877316.jpg,15316216158801.jpg,,,,,,,,
+1028,Ame18fieldstation-670,Point,120.22471,-21.366477,Aplite dike orientation_ 2 cm wide dike_ but in a system of up to 2 m wide.,203,70,,,,,,contact,,,,,,,,,,15317078322510.jpg,,,,,,,,,
+1031,Ame18fieldstation-673,Point,120.223852,-21.365014,Small 15 cm wide aplite dike parallel to major dikes surrounding it. It is cut by an east west dike. Relationship not entirely clear.,152,71,,,,,,contact,,,,,,,,,,15317101970870.jpg,,,,,,,,,
+1032,Ame18fieldstation-673,Point,120.223852,-21.365014,Small 15 cm wide aplite dike parallel to major dikes surrounding it. It is cut by an east west dike. Relationship not entirely clear.,61,79,,,,,,vein,,,,,,,,,,15317101970870.jpg,,,,,,,,,
+1033,Ame18fieldstation-674,Point,120.226856,-21.366017,2 m thick chert bed.,28,45,,,96,,,bedding,,,,,,,,,,,,,,,,,,,
+1034,Ame18fieldstation-675,Point,120.227125,-21.365895,,57,32,138,32,82,,,bedding,,,,,,,,,,,,,,,,,,,
+1035,Ame18fieldstation-676,Point,120.227074,-21.365915,,61,35,141,35,82,,,bedding,,,,,,,,,,,,,,,,,,,
+1040,Ame18fieldstation-680,Point,120.226423,-21.365026,Felsic dike intruding amphibolite.,30,89,,,,,,contact,,,,,,,,,,15317176251515.jpg,,,,,,,,,
+1041,Ame18fieldstation-681,Point,120.226337,-21.366433,Aplite dikes emating from granite into greenstone. Dikes are slifgtly folded I. One place.,160,57,,,,,,contact,,fold,z_fold,310,61,,,,,15317188800864.jpg,,,,,,,,,
+1042,Ame18fieldstation-681,Point,120.226337,-21.366433,Aplite dikes emating from granite into greenstone. Dikes are slifgtly folded I. One place.,310,86,,,,,,contact,,,,,,,,,,15317188800864.jpg,,,,,,,,,
+1044,Ame18fieldstation-682,Point,120.224408,-21.36637,Small aplite dikes.,58,84,,,,,,contact,,,,,,,,,,15317196510250.jpg,15317196705738.jpg,,,,,,,,
+1048,Ame18fieldstation-686,Point,120.236022,-21.298158,"Coarse grained granitic gneiss. 
+
+4.16
+3.47
+2.97
+3.95",245,66,,,,,,foliation,gneissic_folia,,,,,,,,,15317287043297.jpg,,,,,,,,,
+1049,Ame18fieldstation-686,Point,120.236022,-21.298158,"Coarse grained granitic gneiss. 
+
+4.16
+3.47
+2.97
+3.95",242,74,,,,,,foliation,gneissic_folia,,,,,,,,,15317287043297.jpg,,,,,,,,,
+1052,Ame18fieldstation-688,Point,120.001766,-21.471238,"Large phenocrysts again. 
+
+0.12
+0.11
+0.04
+0.11",160,73,,,,,,foliation,mineral_alignm,,,,,,,,,15317964937143.jpg,15317965077954.jpg,,,,,,,,
+1055,Ame18fieldstation-691,Point,120.014905,-21.39947,,130,75,270,67,107,,,foliation,gneissic_folia,,,,,,,,,15318083759755.jpg,,,,,,,,,

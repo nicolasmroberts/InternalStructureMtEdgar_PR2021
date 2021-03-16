@@ -1,0 +1,62 @@
+Name,Rock Type,Thin Sections,Polish,Fol_Strike,Fol_Dip,Fol_Rake
+AME16_006B,Quartz Vein,XZ,EBSD (<1micron),134,68,94
+AME16_009,Granitic,XZ_YZ,EBSD (<1micron),158,50,80
+AME16_019,Quartz Vein,XZ_YZ,EBSD (<1micron),36,68,101
+AME16_020,White mica schist,XZ_YZ,EBSD (<1micron),41,80,110
+AME16_022A,Granitic,XZ_YZ,EBSD (<1micron),38,82,100
+AME16_023,Granitic,XZ_YZ,EBSD (<1micron),,,
+AME16_027,Quartzofelsdpathic schist,XZ,EBSD (<1micron),61,64,106
+AME16_037,Amphibolite Schist,XZ_YZ,EBSD (<1micron),333,77,64
+AME16_039,Granitic,XZ_YZ,EBSD (<1micron),166,73,145
+AME16_046,Quartz Vein,XZ_YZ,EBSD (<1micron),,,
+AME16_047,Chert,XZ_YZ,EBSD (<1micron),316,74,140
+AME16_062A,Granitic,XZ_YZ,EBSD (<1micron),,,
+AME16_065,Granitic,XZ_YZ,EBSD (<1micron),180,68,82
+AME16_067B,Schist,XZ_YZ,UNPOLISHED,90,69,87
+AME16_069B,Schist,XZ_YZ,EBSD (<1micron),105,82,91
+AME16_070,Schist,XZ_YZ,EBSD (<1micron),238,59,44
+AME16_071,Amphibolite Schist,XZ_YZ,EBSD (<1micron),237,59,47
+AME16_072B,Granitic,XZ_YZ,EBSD (<1micron),240,55,58
+AME16_073,Granitic,XZ,EBSD (<1micron),241,61,52
+AME16_118B,Quartz Vein,XZ,EBSD (<1micron),254,74,N/A
+AME16_119A,Granitic,XZ,EBSD (<1micron),290,84,N/A
+AME16_122,Amphibolite Schist,XZ_YZ,EBSD (<1micron),344,62,99
+AME16_123,Amphibolite Schist,XZ_YZ,EBSD (<1micron),76,57,95
+AME16_124,Granitic,XZ_YZ,EBSD (<1micron),102,82,90
+AME16_125,White mica schist,XZ_YZ,EBSD (<1micron),123,74,96
+AME16_126,Calcareous schist,XZ_YZ,EBSD (<1micron),121,84,95
+AME16_127,Quartzofelsdpathic schist,XZ_YZ,UNPOLISHED,119,70,101
+AME16_129,Granitic,XZ_YZ,EBSD (<1micron),121,69,106
+AME16_130,Granitic,XZ_YZ,EBSD (<1micron),124,67,101
+AME16_132,Chert,XZ,EBSD (<1micron),159,76,88
+AME16_133,White mica schist,XZ_YZ,EBSD (<1micron),122,75,107
+AME16_134,White mica schist,XZ_YZ,EBSD (<1micron),134,77,106
+AME16_135,White mica schist,XZ_YZ,EBSD (<1micron),135,74,101
+AME16_136,White mica schist,XZ_YZ,EBSD (<1micron),149,67,100
+AME16_137B,Granitic,XZ_YZ,EBSD (<1micron),145,73,106
+AME16_149,Amphibolite (replaced spinifex),XZ_YZ,EBSD (<1micron),48,79,146
+AME16_150,Granitic,XZ_YZ,EBSD (<1micron),65,60,N/A
+AME16_218,Quartzofelsdpathic schist,XZ_YZ,EBSD (<1micron),32,85,77
+AME16_219,Quartzofelsdpathic schist,XZ_YZ,UNPOLISHED,20,70,78
+AME18_007,Granitic w/ garnet,XZ_YZ,EBSD (<1micron),122,64,120
+AME18_036,Chert,XZ_YZ,EBSD (<1micron),296,84,93
+AME18_053E,Garnet schist,XZ1_XZ2_YZ,EBSD (<1micron),135,84,104
+AME18_058A,Garnet schist,XZ1_XZ2_XZ3_YZ,EBSD (<1micron),294,85,70
+AME18_067,Paragneiss,XZ1_XZ2_YZ,EBSD (<1micron),118,67,103
+AME18_070,White mica schist,XZ_YZ,EBSD (<1micron),117,80,107
+AME18_102,Chert,XZ_YZ,EBSD (<1micron),303,87,102
+AME18_105B,Paragneiss,XZ_YZ,EBSD (<1micron),116,64,93
+AME18_198,Quartz Vein,XZ_YZ,EBSD (<1micron),298,89,74
+AME18_201,Amphibolite Schist,XZ_YZ,EBSD (<1micron),290,89,75
+AME18_204,White mica schist,XZ_YZ,EBSD (<1micron),115,82,112
+AME18_205A,White mica kyanite schist,XZ_YZ,EBSD (<1micron),124,70,104
+AME18_205B,White mica kyanite schist,XZ_YZ,EBSD (<1micron),124,70,106
+AME18_216,Chert,XZ_YZ,EBSD (<1micron),110,85,105
+AME18_218,Chert,XZ_YZ,EBSD (<1micron),144,84,103
+AME18_220,Chert,XZ_YZ,EBSD (<1micron),109,78,78
+AME18_226,Chert,XZ_YZ,EBSD (<1micron),147,84,152
+AME18_237,White mica schist,XZ_YZ,EBSD (<1micron),317,86,82
+AME18_238A,Garnet schist,XZ_YZ,EBSD (<1micron),144,59,114
+AME18_274,Chert,XZ_YZ,EBSD (<1micron),286,79,170
+AME18_278,Chert,XZ_YZ,EBSD (<1micron),290,83,152
+AME18_279,Chert,XZ_YZ,EBSD (<1micron),272,80,120
